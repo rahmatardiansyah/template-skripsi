@@ -1,0 +1,15 @@
+[0] Config.pm:307> INFO - This is Biber 2.17
+[0] Config.pm:310> INFO - Logfile is 'article-journal.blg'
+[86] biber:340> INFO - === Wed Mar 15, 2023, 15:15:15
+[102] Biber.pm:418> INFO - Reading 'article-journal.bcf'
+[183] Biber.pm:972> INFO - Found 16 citekeys in bib section 0
+[199] Biber.pm:4383> INFO - Processing section 0
+[210] Biber.pm:4574> INFO - Looking for bibtex file 'bibtex/daftar-pustaka.bib' for section 0
+[212] bibtex.pm:1713> INFO - LaTeX decoding ...
+[244] bibtex.pm:1518> INFO - Found BibTeX data source 'bibtex/daftar-pustaka.bib'
+[417] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[418] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[418] Biber.pm:4203> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
+[418] Biber.pm:4209> INFO - No sort tailoring available for locale 'en-US'
+[445] bbl.pm:654> INFO - Writing 'article-journal.bbl' with encoding 'UTF-8'
+[454] bbl.pm:757> INFO - Output to article-journal.bbl

@@ -1,0 +1,582 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{lb:asano}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=5f105a729793d0c1e0a25139019097c4}{%
+           family={Asano},
+           familyi={A\bibinitperiod},
+           given={Shuichi},
+           giveni={S\bibinitperiod}}}%
+        {{hash=16f1b062225a95eda57e9e208d69d5a5}{%
+           family={Maruyama},
+           familyi={M\bibinitperiod},
+           given={Tsutomu},
+           giveni={T\bibinitperiod}}}%
+        {{hash=2a3f458dbb3ed94f9c0be22e0172e279}{%
+           family={Yamaguchi},
+           familyi={Y\bibinitperiod},
+           given={Yoshiki},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{6e10200c4df09d8dc303e1c8620c1db8}
+      \strng{fullhash}{6e10200c4df09d8dc303e1c8620c1db8}
+      \strng{bibnamehash}{6e10200c4df09d8dc303e1c8620c1db8}
+      \strng{authorbibnamehash}{6e10200c4df09d8dc303e1c8620c1db8}
+      \strng{authornamehash}{6e10200c4df09d8dc303e1c8620c1db8}
+      \strng{authorfullhash}{6e10200c4df09d8dc303e1c8620c1db8}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2009 International Conference on Field Programmable Logic and Applications}
+      \field{title}{Performance comparison of FPGA, GPU and CPU in image processing}
+      \field{year}{2009}
+      \field{pages}{126\bibrangedash 131}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1109/FPL.2009.5272532
+      \endverb
+    \endentry
+    \entry{pdf:cheung}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=91d967a5868d213356e85accae56a9b8}{%
+           family={Cheung},
+           familyi={C\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{91d967a5868d213356e85accae56a9b8}
+      \strng{fullhash}{91d967a5868d213356e85accae56a9b8}
+      \strng{bibnamehash}{91d967a5868d213356e85accae56a9b8}
+      \strng{authorbibnamehash}{91d967a5868d213356e85accae56a9b8}
+      \strng{authornamehash}{91d967a5868d213356e85accae56a9b8}
+      \strng{authorfullhash}{91d967a5868d213356e85accae56a9b8}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{http://www.ee.ic.ac.uk/pcheung/teaching/ee2_digital/Lecture 2 - Introduction to FPGAs.pdf}}
+      \field{note}{Accessed on 2020-04-19}
+      \field{title}{Introduction to FPGAs}
+      \field{year}{2019}
+    \endentry
+    \entry{lb:cong}{inproceedings}{}
+      \name{author}{6}{}{%
+        {{hash=042006eac26048979dcfab0a32b86d47}{%
+           family={Cong},
+           familyi={C\bibinitperiod},
+           given={Jason},
+           giveni={J\bibinitperiod}}}%
+        {{hash=c072decd852fe79d34b79b121615b16b}{%
+           family={Fang},
+           familyi={F\bibinitperiod},
+           given={Zhenman},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=20cc0371954ddc9c061668fd6698c3b9}{%
+           family={Lo},
+           familyi={L\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=2f433fe6a0bc850a3ffbcce2ce293ac4}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Hanrui},
+           giveni={H\bibinitperiod}}}%
+        {{hash=361295f414b178ccb0c0d75d4d1ab6d7}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Jingxian},
+           giveni={J\bibinitperiod}}}%
+        {{hash=de36f61c608e16c57b6e2b4d4136b9fa}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Shaochong},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Monterey, CALIFORNIA, USA}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computing Machinery}%
+      }
+      \strng{namehash}{17b90198e4d646c3163eeafbbb525b6b}
+      \strng{fullhash}{dad9896d234262b990339c8dfe59cc38}
+      \strng{bibnamehash}{17b90198e4d646c3163eeafbbb525b6b}
+      \strng{authorbibnamehash}{17b90198e4d646c3163eeafbbb525b6b}
+      \strng{authornamehash}{17b90198e4d646c3163eeafbbb525b6b}
+      \strng{authorfullhash}{dad9896d234262b990339c8dfe59cc38}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 2018 ACM/SIGDA International Symposium on Field-Programmable Gate Arrays}
+      \field{isbn}{9781450356145}
+      \field{series}{FPGA '18}
+      \field{title}{Understanding Performance Differences of FPGAs and GPUs}
+      \field{year}{2018}
+      \field{pages}{288}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1145/3174243.3174970
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1145/3174243.3174970
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1145/3174243.3174970
+      \endverb
+    \endentry
+    \entry{book:gonzalez}{book}{}
+      \name{author}{2}{}{%
+        {{hash=07713b8c79fe78ffaf9ab728a5f3ce88}{%
+           family={Gonzalez},
+           familyi={G\bibinitperiod},
+           given={Rafael\bibnamedelima C.},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=f7e4f4ce32d8e1ac04f7ee5eefcabe8f}{%
+           family={Woods},
+           familyi={W\bibinitperiod},
+           given={Richard\bibnamedelima E.},
+           giveni={R\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Upper Saddle River, New Jersey 07458}%
+      }
+      \list{publisher}{1}{%
+        {Prentice Hall}%
+      }
+      \strng{namehash}{629c2754a63b62c1f205866b8ab085f9}
+      \strng{fullhash}{629c2754a63b62c1f205866b8ab085f9}
+      \strng{bibnamehash}{629c2754a63b62c1f205866b8ab085f9}
+      \strng{authorbibnamehash}{629c2754a63b62c1f205866b8ab085f9}
+      \strng{authornamehash}{629c2754a63b62c1f205866b8ab085f9}
+      \strng{authorfullhash}{629c2754a63b62c1f205866b8ab085f9}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2nd}
+      \field{note}{ISBN-13: 978-0201180756}
+      \field{title}{Digital Image Processing}
+      \field{year}{2001}
+    \endentry
+    \entry{pdf:jingbo}{article}{}
+      \name{author}{4}{}{%
+        {{hash=2b56a402a29fbc6a48ae54efb61bc99e}{%
+           family={Jingbo},
+           familyi={J\bibinitperiod},
+           given={Xu},
+           giveni={X\bibinitperiod}}}%
+        {{hash=c97e20777166561cf99ddc1272bea36a}{%
+           family={Bo},
+           familyi={B\bibinitperiod},
+           given={Liu},
+           giveni={L\bibinitperiod}}}%
+        {{hash=033b68044538ca981957b1ae4ed55302}{%
+           family={Haijun},
+           familyi={H\bibinitperiod},
+           given={Lin},
+           giveni={L\bibinitperiod}}}%
+        {{hash=bc74dedabae198661aecd2a4a57e05f2}{%
+           family={Jianxin},
+           familyi={J\bibinitperiod},
+           given={Li},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{a14d6b3e39a76f4afdbe2eee5c1fda38}
+      \strng{fullhash}{a871f745d54d868b4814b84b838e603d}
+      \strng{bibnamehash}{a14d6b3e39a76f4afdbe2eee5c1fda38}
+      \strng{authorbibnamehash}{a14d6b3e39a76f4afdbe2eee5c1fda38}
+      \strng{authornamehash}{a14d6b3e39a76f4afdbe2eee5c1fda38}
+      \strng{authorfullhash}{a871f745d54d868b4814b84b838e603d}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The 6th International Forum on Strategic Technology}
+      \field{month}{8}
+      \field{title}{A New Method for Realizing LOG Filter in Image Edge Detection}
+      \field{year}{2011}
+      \verb{doi}
+      \verb 10.1109/IFOST.2011.6021127
+      \endverb
+    \endentry
+    \entry{manual:linux}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=7f32f61adec784489cc0fa2cefa610a3}{%
+           family={Kerrisk},
+           familyi={K\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{7f32f61adec784489cc0fa2cefa610a3}
+      \strng{fullhash}{7f32f61adec784489cc0fa2cefa610a3}
+      \strng{bibnamehash}{7f32f61adec784489cc0fa2cefa610a3}
+      \strng{authorbibnamehash}{7f32f61adec784489cc0fa2cefa610a3}
+      \strng{authornamehash}{7f32f61adec784489cc0fa2cefa610a3}
+      \strng{authorfullhash}{7f32f61adec784489cc0fa2cefa610a3}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.man7.org/linux/man-pages/man1/top.1.html}}
+      \field{note}{Accessed on 2021-02-2}
+      \field{title}{{(Top)} Linux Manual Page}
+      \field{year}{2020}
+    \endentry
+    \entry{pdf:marcin}{article}{}
+      \name{author}{3}{}{%
+        {{hash=240fe46d1f0da9bb92e41fca6a02f8a9}{%
+           family={Kowalczyk},
+           familyi={K\bibinitperiod},
+           given={Marcin},
+           giveni={M\bibinitperiod}}}%
+        {{hash=c301e8a7fce0d27831f6c85872863bdd}{%
+           family={Przewlocka},
+           familyi={P\bibinitperiod},
+           given={Dominika},
+           giveni={D\bibinitperiod}}}%
+        {{hash=2f1385f530b0cf5681231b46fb68e81b}{%
+           family={Krvjak},
+           familyi={K\bibinitperiod},
+           given={Tomasz},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{49d808309b8629337ec1b6867f1f4779}
+      \strng{fullhash}{49d808309b8629337ec1b6867f1f4779}
+      \strng{bibnamehash}{49d808309b8629337ec1b6867f1f4779}
+      \strng{authorbibnamehash}{49d808309b8629337ec1b6867f1f4779}
+      \strng{authornamehash}{49d808309b8629337ec1b6867f1f4779}
+      \strng{authorfullhash}{49d808309b8629337ec1b6867f1f4779}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{2018 Conference on Design and Architectures for Signal and Image Processing (DASIP)}
+      \field{month}{10}
+      \field{title}{Real-Time Implementation of Contextual Image Processing Operations for 4K Video Stream in Zynq UltraScale+ MPSoC}
+      \field{year}{2018}
+      \verb{doi}
+      \verb 10.1109/DASIP.2018.8597105
+      \endverb
+    \endentry
+    \entry{pdf:pavan}{article}{}
+      \name{author}{4}{}{%
+        {{hash=1a97c0094900720e0569f894e094304a}{%
+           family={Madhusudana},
+           familyi={M\bibinitperiod},
+           given={Pavan\bibnamedelima C.},
+           giveni={P\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=0e12e3a118725f8f86b7cf4715082f0e}{%
+           family={Birkbeck},
+           familyi={B\bibinitperiod},
+           given={Neil},
+           giveni={N\bibinitperiod}}}%
+        {{hash=42747fb17ae31e5442b97019142b05ee}{%
+           family={Adsumilli},
+           familyi={A\bibinitperiod},
+           given={Yilin\bibnamedelimb Wang;\bibnamedelima Balu},
+           giveni={Y\bibinitperiod\bibinitdelim W\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=d9c2ab9a8cbcab08292923a454c88ce7}{%
+           family={Bovik},
+           familyi={B\bibinitperiod},
+           given={Alan\bibnamedelima C.},
+           giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \strng{namehash}{e38a9f4af9ace4e0895baccfebef668a}
+      \strng{fullhash}{636e20099f1adb8b3b0a89db22d83b99}
+      \strng{bibnamehash}{e38a9f4af9ace4e0895baccfebef668a}
+      \strng{authorbibnamehash}{e38a9f4af9ace4e0895baccfebef668a}
+      \strng{authornamehash}{e38a9f4af9ace4e0895baccfebef668a}
+      \strng{authorfullhash}{636e20099f1adb8b3b0a89db22d83b99}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Signal Processing Letters}
+      \field{title}{Capturing Video Frame Rate Variations via Entropic Differencing}
+      \field{volume}{27}
+      \field{year}{2020}
+      \field{pages}{1809\bibrangedash 1813}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1109/LSP.2020.3028687
+      \endverb
+    \endentry
+    \entry{book:munir}{book}{}
+      \name{author}{1}{}{%
+        {{hash=6bab1d5c1aa6f71624f218fd36943aee}{%
+           family={Rinaldi},
+           familyi={R\bibinitperiod},
+           given={Munir},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Bandung}%
+      }
+      \list{publisher}{1}{%
+        {Penerbit Informatika}%
+      }
+      \strng{namehash}{6bab1d5c1aa6f71624f218fd36943aee}
+      \strng{fullhash}{6bab1d5c1aa6f71624f218fd36943aee}
+      \strng{bibnamehash}{6bab1d5c1aa6f71624f218fd36943aee}
+      \strng{authorbibnamehash}{6bab1d5c1aa6f71624f218fd36943aee}
+      \strng{authornamehash}{6bab1d5c1aa6f71624f218fd36943aee}
+      \strng{authorfullhash}{6bab1d5c1aa6f71624f218fd36943aee}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{ISBN: 979-3338296}
+      \field{title}{Pengolahan Citra Digital dengan Pendekatan Algoritmik}
+      \field{year}{2004}
+    \endentry
+    \entry{site:ltdp}{misc}{}
+      \name{author}{4}{}{%
+        {{hash=f34acd3834ca397766859f3a0dbfd0f3}{%
+           family={S},
+           familyi={S\bibinitperiod},
+           given={Lars},
+           giveni={L\bibinitperiod}}}%
+        {{hash=5e87574ac7a45fea61c4f9d1a04aebb7}{%
+           family={Oja},
+           familyi={O\bibinitperiod},
+           given={Joanna},
+           giveni={J\bibinitperiod}}}%
+        {{hash=98228bbe625bd81878ec787281d772f0}{%
+           family={Stafford},
+           familyi={S\bibinitperiod},
+           given={Stephen},
+           giveni={S\bibinitperiod}}}%
+        {{hash=1bbfd815f1af5675e15307574a34091d}{%
+           family={Weeks},
+           familyi={W\bibinitperiod},
+           given={Alex},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{2a0cb508cbcbc718df440935b734c1cf}
+      \strng{fullhash}{830053a9be1a3fea6c31568bf4bbc2e3}
+      \strng{bibnamehash}{2a0cb508cbcbc718df440935b734c1cf}
+      \strng{authorbibnamehash}{2a0cb508cbcbc718df440935b734c1cf}
+      \strng{authornamehash}{2a0cb508cbcbc718df440935b734c1cf}
+      \strng{authorfullhash}{830053a9be1a3fea6c31568bf4bbc2e3}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://tldp.org/LDP/sag/html/vm-intro.html}}
+      \field{note}{Accessed on 2021-02-22}
+      \field{title}{The Linux System Adminstrator's Guide Chapter 6. Memory Management}
+      \field{year}{2020}
+    \endentry
+    \entry{book:os}{book}{}
+      \name{author}{3}{}{%
+        {{hash=5850a21183b00b80eec09b4c74f649bb}{%
+           family={Silbershatz},
+           familyi={S\bibinitperiod},
+           given={Avi},
+           giveni={A\bibinitperiod}}}%
+        {{hash=f3df54adc4a05246548815b758cde5f1}{%
+           family={Galvin},
+           familyi={G\bibinitperiod},
+           given={Peter\bibnamedelima Baer},
+           giveni={P\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=8f10d7fda1274429a894fc713a738d8a}{%
+           family={Gagne},
+           familyi={G\bibinitperiod},
+           given={Greg},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {John Wiley}%
+        {Sons, Inc}%
+      }
+      \strng{namehash}{b258439cc8927a1a1240f879f53de4f2}
+      \strng{fullhash}{b258439cc8927a1a1240f879f53de4f2}
+      \strng{bibnamehash}{b258439cc8927a1a1240f879f53de4f2}
+      \strng{authorbibnamehash}{b258439cc8927a1a1240f879f53de4f2}
+      \strng{authornamehash}{b258439cc8927a1a1240f879f53de4f2}
+      \strng{authorfullhash}{b258439cc8927a1a1240f879f53de4f2}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{ISBN: 978-0-470-12872-5}
+      \field{title}{Operationg System Concepts}
+      \field{year}{2009}
+    \endentry
+    \entry{book:sutoyo}{book}{}
+      \name{author}{5}{}{%
+        {{hash=2933c6f8d8ff6259b00ffe04234d01ee}{%
+           family={Sutoyo},
+           familyi={S\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=df6d0bd915f0f5e341a5d44063173d6a}{%
+           family={Mulyanto},
+           familyi={M\bibinitperiod},
+           given={Edy},
+           giveni={E\bibinitperiod}}}%
+        {{hash=4efaa6100b4bbc629747af038c778409}{%
+           family={Suhartono},
+           familyi={S\bibinitperiod},
+           given={Vincent},
+           giveni={V\bibinitperiod}}}%
+        {{hash=68ea4773b899bdf789a15cbd8cba5455}{%
+           family={Nurhayati},
+           familyi={N\bibinitperiod},
+           given={Oky\bibnamedelima Dwi},
+           giveni={O\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=aec2ae3d35b316041c70c6f834acc093}{%
+           family={Wijanarto},
+           familyi={W\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Jl. Beo 38-40, Yogyakarta 55281}%
+      }
+      \list{publisher}{1}{%
+        {Penerbit Andi}%
+      }
+      \strng{namehash}{00be6b17a28dca40ec8a9bc704c10f06}
+      \strng{fullhash}{4ac37c37a9b2576664ddeaa1da4a0b52}
+      \strng{bibnamehash}{00be6b17a28dca40ec8a9bc704c10f06}
+      \strng{authorbibnamehash}{00be6b17a28dca40ec8a9bc704c10f06}
+      \strng{authornamehash}{00be6b17a28dca40ec8a9bc704c10f06}
+      \strng{authorfullhash}{4ac37c37a9b2576664ddeaa1da4a0b52}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{ISBN-13: 978-979-29-0974-6}
+      \field{title}{Teori Pengolahan Citra Digital}
+      \field{year}{2009}
+    \endentry
+    \entry{soa:dmitry}{article}{}
+      \name{author}{3}{}{%
+        {{hash=4eafbd7af2c5977758bb010a6a581bed}{%
+           family={Ustyukov},
+           familyi={U\bibinitperiod},
+           given={Dmitry\bibnamedelima I.},
+           giveni={D\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+        {{hash=ca8e17c252fc182d808c48e27d6cbed7}{%
+           family={Efimov},
+           familyi={E\bibinitperiod},
+           given={Alex\bibnamedelima I.},
+           giveni={A\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+        {{hash=6eed1b962ada79ed6985a364e185c142}{%
+           family={Kolchaev},
+           familyi={K\bibinitperiod},
+           given={Dmitry\bibnamedelima A.},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{07fc9ad9b87b997299a1a909e3eabffc}
+      \strng{fullhash}{07fc9ad9b87b997299a1a909e3eabffc}
+      \strng{bibnamehash}{07fc9ad9b87b997299a1a909e3eabffc}
+      \strng{authorbibnamehash}{07fc9ad9b87b997299a1a909e3eabffc}
+      \strng{authornamehash}{07fc9ad9b87b997299a1a909e3eabffc}
+      \strng{authorfullhash}{07fc9ad9b87b997299a1a909e3eabffc}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Mediterranean Conference On Embedded Computing (Meco)}
+      \field{month}{6}
+      \field{title}{Features of Image Spatial Filters Implementation on FPGA}
+      \field{year}{2019}
+    \endentry
+    \entry{XILINX}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=f872201c6db9bf2620dc262ba42d2271}{%
+           family={Xilinx},
+           familyi={X\bibinitperiod}}}%
+      }
+      \strng{namehash}{f872201c6db9bf2620dc262ba42d2271}
+      \strng{fullhash}{f872201c6db9bf2620dc262ba42d2271}
+      \strng{bibnamehash}{f872201c6db9bf2620dc262ba42d2271}
+      \strng{authorbibnamehash}{f872201c6db9bf2620dc262ba42d2271}
+      \strng{authornamehash}{f872201c6db9bf2620dc262ba42d2271}
+      \strng{authorfullhash}{f872201c6db9bf2620dc262ba42d2271}
+      \field{sortinit}{X}
+      \field{sortinithash}{1965c258adceecf23ce3d67b05113442}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.xilinx.com/products/silicon-devices/fpga/what-is-an-fpga.html}}
+      \field{note}{Accessed on 2020-04-17}
+      \field{title}{Field Programmable Gate Array (FPGA)}
+      \field{year}{2020}
+    \endentry
+    \entry{pdf:ching}{article}{}
+      \name{author}{1}{}{%
+        {{hash=3ccb6942acf06055820610147c6329e0}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Ching-Chung},
+           giveni={C\bibinithyphendelim C\bibinitperiod}}}%
+      }
+      \strng{namehash}{3ccb6942acf06055820610147c6329e0}
+      \strng{fullhash}{3ccb6942acf06055820610147c6329e0}
+      \strng{bibnamehash}{3ccb6942acf06055820610147c6329e0}
+      \strng{authorbibnamehash}{3ccb6942acf06055820610147c6329e0}
+      \strng{authornamehash}{3ccb6942acf06055820610147c6329e0}
+      \strng{authorfullhash}{3ccb6942acf06055820610147c6329e0}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{OPTIK}
+      \field{month}{9}
+      \field{title}{Finest Image Sharpening by Sse of the Modified Mask Filter Dealing with Highest Spatial Frequencies}
+      \field{year}{2013}
+      \verb{doi}
+      \verb 10.1016/j.ijleo.2013.09.070
+      \endverb
+    \endentry
+    \entry{thesis:jin}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=acbe8c54f50e28c7d4d1861c1e644a37}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={Jin},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Worcester Polytechnic Institute}%
+      }
+      \strng{namehash}{acbe8c54f50e28c7d4d1861c1e644a37}
+      \strng{fullhash}{acbe8c54f50e28c7d4d1861c1e644a37}
+      \strng{bibnamehash}{acbe8c54f50e28c7d4d1861c1e644a37}
+      \strng{authorbibnamehash}{acbe8c54f50e28c7d4d1861c1e644a37}
+      \strng{authornamehash}{acbe8c54f50e28c7d4d1861c1e644a37}
+      \strng{authorfullhash}{acbe8c54f50e28c7d4d1861c1e644a37}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{4}
+      \field{title}{Video/Image Processing on FPGA}
+      \field{type}{Master thesis}
+      \field{year}{2015}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

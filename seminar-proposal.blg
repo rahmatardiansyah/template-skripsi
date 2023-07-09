@@ -1,0 +1,17 @@
+[0] Config.pm:307> INFO - This is Biber 2.17
+[0] Config.pm:310> INFO - Logfile is 'seminar-proposal.blg'
+[95] biber:340> INFO - === Thu Jun 22, 2023, 11:54:41
+[116] Biber.pm:418> INFO - Reading 'seminar-proposal.bcf'
+[204] Biber.pm:972> INFO - Found 10 citekeys in bib section 0
+[222] Biber.pm:4383> INFO - Processing section 0
+[236] Biber.pm:4574> INFO - Looking for bibtex file 'bibtex/daftar-pustaka.bib' for section 0
+[238] bibtex.pm:1713> INFO - LaTeX decoding ...
+[280] bibtex.pm:1518> INFO - Found BibTeX data source 'bibtex/daftar-pustaka.bib'
+[398] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[399] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[399] Biber.pm:4203> INFO - Sorting list 'anyt/global//global/global' of type 'entry' with template 'anyt' and locale 'en-US'
+[399] Biber.pm:4209> INFO - No sort tailoring available for locale 'en-US'
+[413] bbl.pm:654> INFO - Writing 'seminar-proposal.bbl' with encoding 'UTF-8'
+[419] bbl.pm:757> INFO - Output to seminar-proposal.bbl
+[419] Biber.pm:130> WARN - BibTeX subsystem: /tmp/biber_tmp_Hcmw/41ffe2d8d9a3f06b4c5a0f7a04e3d585_9321.utf8, line 50, warning: undefined macro "https://ojs.unud.ac.id/index.php/merpati/article/view/17893/11623"
+[419] Biber.pm:132> INFO - WARNINGS: 1

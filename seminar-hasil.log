@@ -1,0 +1,1558 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/nixos.org) (preloaded format=pdflatex 1980.1.1)  18 JUN 2023 20:26
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**seminar-hasil.tex
+(./seminar-hasil.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-02-24> (./lib/skripsi.cls
+Document Class: lib/skripsi 2020/03/11 Skripsi Class
+(/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/latex/base/report.cls
+Document Class: report 2021/10/04 v1.4n Standard LaTeX document class
+(/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/latex/base/size12.clo
+File: size12.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@chapter=\count186
+\c@section=\count187
+\c@subsection=\count188
+\c@subsubsection=\count189
+\c@paragraph=\count190
+\c@subparagraph=\count191
+\c@figure=\count192
+\c@table=\count193
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+) (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/latex/tools/indentfirst.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+) (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/latex/ragged2e/ragged2e.sty
+Package: ragged2e 2021/12/15 v3.1 ragged2e Package
+\CenteringLeftskip=\skip49
+\RaggedLeftLeftskip=\skip50
+\RaggedRightLeftskip=\skip51
+\CenteringRightskip=\skip52
+\RaggedLeftRightskip=\skip53
+\RaggedRightRightskip=\skip54
+\CenteringParfillskip=\skip55
+\RaggedLeftParfillskip=\skip56
+\RaggedRightParfillskip=\skip57
+\JustifyingParfillskip=\skip58
+\CenteringParindent=\skip59
+\RaggedLeftParindent=\skip60
+\RaggedRightParindent=\skip61
+\JustifyingParindent=\skip62
+) (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/latex/hyphenat/hyphenat.sty
+Package: hyphenat 2009/09/02 v2.3c hyphenation utilities
+\langwohyphens=\language87
+LaTeX Info: Redefining \_ on input line 43.
+) (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/latex/newtx/newtxtext.sty
+Package: newtxtext 2022/02/28 v1.71(Michael Sharpe) latex and unicode latex support for TeXGyreTermesX
+ `newtxtext' v1.71, 2022/02/28 Text macros taking advantage of TeXGyre Termes and its extensions (msharpe) (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+) (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
+ (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/generic/xkeyval/xkeyval.tex (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks16
+\XKV@tempa@toks=\toks17
+ (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/generic/xkeyval/keyval.tex))
+\XKV@depth=\count194
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)) (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count195
+) (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/latex/base/textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+) (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/generic/xstring/xstring.sty (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/generic/xstring/xstring.tex
+\integerpart=\count196
+\decimalpart=\count197
+)
+Package: xstring 2021/07/21 v1.84 String manipulations (CT)
+) (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/latex/base/ifthen.sty
+Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/latex/carlisle/scalefnt.sty)
+LaTeX Font Info:    Setting ntxLF sub-encoding to TS1/0 on input line 21.
+LaTeX Font Info:    Setting ntxTLF sub-encoding to TS1/0 on input line 21.
+LaTeX Font Info:    Setting ntxOsF sub-encoding to TS1/0 on input line 21.
+LaTeX Font Info:    Setting ntxTOsF sub-encoding to TS1/0 on input line 21.
+ (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/generic/kastrup/binhex.tex)
+\ntx@tmpcnta=\count198
+\ntx@cnt=\count199
+
+ntx@otftextfalse
+(/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/latex/fontaxes/fontaxes.sty
+Package: fontaxes 2020/07/21 v1.0e Font selection axes
+LaTeX Info: Redefining \upshape on input line 29.
+LaTeX Info: Redefining \itshape on input line 31.
+LaTeX Info: Redefining \slshape on input line 33.
+LaTeX Info: Redefining \swshape on input line 35.
+LaTeX Info: Redefining \scshape on input line 37.
+LaTeX Info: Redefining \sscshape on input line 39.
+LaTeX Info: Redefining \ulcshape on input line 41.
+LaTeX Info: Redefining \textsw on input line 47.
+LaTeX Info: Redefining \textssc on input line 48.
+LaTeX Info: Redefining \textulc on input line 49.
+)
+LaTeX Info: Redefining \oldstylenums on input line 657.
+) (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/latex/newtx/newtxmath.sty
+Package: newtxmath 2022/01/16 v1.71
+ `newtxmath' v1.71, 2022/01/16 Math macros based originally on txfonts (msharpe) (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2021/10/15 v2.17l AMS math features
+\@mathmargin=\skip63
+
+For additional information on amsmath, use the `?' option.
+(/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+ (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks18
+\ex@=\dimen139
+)) (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen140
+) (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2021/08/26 v2.02 operator names
+)
+\inf@bad=\count266
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count267
+\leftroot@=\count268
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count269
+\DOTSCASE@=\count270
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box50
+\strutbox@=\box51
+\big@size=\dimen141
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count271
+\c@MaxMatrixCols=\count272
+\dotsspace@=\muskip16
+\c@parentequation=\count273
+\dspbrk@lvl=\count274
+\tag@help=\toks19
+\row@=\count275
+\column@=\count276
+\maxfields@=\count277
+\andhelp@=\toks20
+\eqnshift@=\dimen142
+\alignsep@=\dimen143
+\tagshift@=\dimen144
+\tagwidth@=\dimen145
+\totwidth@=\dimen146
+\lineht@=\dimen147
+\@envbody=\toks21
+\multlinegap=\skip64
+\multlinetaggap=\skip65
+\mathdisplay@stack=\toks22
+LaTeX Info: Redefining \[ on input line 2938.
+LaTeX Info: Redefining \] on input line 2939.
+) (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/generic/iftex/ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+) (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/generic/iftex/ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+) (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/latex/oberdiek/centernot.sty
+Package: centernot 2016/05/16 v1.4 Centers the not symbol horizontally (HO)
+)
+\tx@cntz=\count278
+ (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/generic/kastrup/binhex.tex)
+\tx@Isdigit=\count279
+\tx@IsAlNum=\count280
+\tx@tA=\toks23
+\tx@tB=\toks24
+\tx@su=\read2
+
+amsthm NOT loaded
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 376.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/minntx/m/n on input line 376.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/minntx/m/n on input line 376.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/minntx/m/n --> OT1/minntx/b/n on input line 377.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 383.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/qhv/m/n on input line 383.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/qhv/m/n on input line 383.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 384.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/minntx/m/it on input line 384.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/minntx/m/it on input line 384.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 385.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/ntxtt/m/n on input line 385.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/ntxtt/m/n on input line 385.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 387.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/minntx/b/n on input line 387.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/minntx/b/n on input line 387.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/minntx/m/it --> OT1/minntx/b/it on input line 388.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/qhv/m/n --> OT1/qhv/b/n on input line 389.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/ntxtt/m/n --> OT1/ntxtt/b/n on input line 390.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 491.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/ntxmi/m/it on input line 491.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/ntxmi/m/it on input line 491.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/ntxmi/m/it --> OML/ntxmi/b/it on input line 492.
+\symlettersA=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `lettersA' in version `bold'
+(Font)                  U/ntxmia/m/it --> U/ntxmia/b/it on input line 547.
+Now handling font encoding LMS ...
+... no UTF-8 mapping file for font encoding LMS
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 568.
+LaTeX Font Info:    Encoding `OMS' has changed to `LMS' for symbol font
+(Font)              `symbols' in the math version `normal' on input line 568.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> LMS/ntxsy/m/n on input line 568.
+LaTeX Font Info:    Encoding `OMS' has changed to `LMS' for symbol font
+(Font)              `symbols' in the math version `bold' on input line 568.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> LMS/ntxsy/m/n on input line 568.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  LMS/ntxsy/m/n --> LMS/ntxsy/b/n on input line 569.
+\symAMSm=\mathgroup5
+LaTeX Font Info:    Overwriting symbol font `AMSm' in version `bold'
+(Font)                  U/ntxsym/m/n --> U/ntxsym/b/n on input line 594.
+\symsymbolsC=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `symbolsC' in version `bold'
+(Font)                  U/ntxsyc/m/n --> U/ntxsyc/b/n on input line 615.
+Now handling font encoding LMX ...
+... no UTF-8 mapping file for font encoding LMX
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 628.
+LaTeX Font Info:    Encoding `OMX' has changed to `LMX' for symbol font
+(Font)              `largesymbols' in the math version `normal' on input line 628.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> LMX/ntxexx/m/n on input line 628.
+LaTeX Font Info:    Encoding `OMX' has changed to `LMX' for symbol font
+(Font)              `largesymbols' in the math version `bold' on input line 628.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> LMX/ntxexx/m/n on input line 628.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  LMX/ntxexx/m/n --> LMX/ntxexx/b/n on input line 629.
+\symlargesymbolsTXA=\mathgroup7
+LaTeX Font Info:    Overwriting symbol font `largesymbolsTXA' in version `bold'
+(Font)                  U/ntxexa/m/n --> U/ntxexa/b/n on input line 643.
+\tx@sbptoks=\toks25
+LaTeX Font Info:    Redeclaring math delimiter \lfloor on input line 866.
+LaTeX Font Info:    Redeclaring math delimiter \rfloor on input line 867.
+LaTeX Font Info:    Redeclaring math delimiter \lceil on input line 868.
+LaTeX Font Info:    Redeclaring math delimiter \rceil on input line 869.
+LaTeX Font Info:    Redeclaring math delimiter \lbrace on input line 870.
+LaTeX Font Info:    Redeclaring math delimiter \rbrace on input line 871.
+LaTeX Font Info:    Redeclaring math delimiter \langle on input line 872.
+LaTeX Font Info:    Redeclaring math delimiter \rangle on input line 874.
+LaTeX Font Info:    Redeclaring math delimiter \arrowvert on input line 878.
+LaTeX Font Info:    Redeclaring math delimiter \vert on input line 879.
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 925.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 950.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 951.
+LaTeX Font Info:    Redeclaring math accent \vec on input line 2020.
+LaTeX Info: Redefining \Bbbk on input line 2810.
+LaTeX Info: Redefining \not on input line 2959.
+) (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/latex/graphics/graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+ (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+ (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen148
+\Gin@req@width=\dimen149
+) (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/latex/adjustbox/adjustbox.sty
+Package: adjustbox 2020/08/19 v1.3 Adjusting TeX boxes (trim, clip, ...)
+ (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/latex/adjustbox/adjcalc.sty
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back-ends (calc, etex, pgfmath)
+) (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/latex/adjustbox/trimclip.sty
+Package: trimclip 2020/08/19 v1.2 Trim and clip general TeX material
+ (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/latex/collectbox/collectbox.sty
+Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
+\collectedbox=\box52
+)
+\tc@llx=\dimen150
+\tc@lly=\dimen151
+\tc@urx=\dimen152
+\tc@ury=\dimen153
+Package trimclip Info: Using driver 'tc-pdftex.def'.
+ (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/latex/adjustbox/tc-pdftex.def
+File: tc-pdftex.def 2019/01/04 v2.2 Clipping driver for pdftex
+))
+\adjbox@Width=\dimen154
+\adjbox@Height=\dimen155
+\adjbox@Depth=\dimen156
+\adjbox@Totalheight=\dimen157
+\adjbox@pwidth=\dimen158
+\adjbox@pheight=\dimen159
+\adjbox@pdepth=\dimen160
+\adjbox@ptotalheight=\dimen161
+ (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/latex/ifoddpage/ifoddpage.sty
+Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
+\c@checkoddpage=\count281
+) (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/latex/varwidth/varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box53
+\sift@deathcycles=\count282
+\@vwid@loff=\dimen162
+\@vwid@roff=\dimen163
+)) (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2021/10/31 v2.13 LaTeX color extensions (UK)
+ (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+ (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/latex/colortbl/colortbl.sty
+Package: colortbl 2020/01/04 v1.0e Color table columns (DPC)
+ (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/latex/tools/array.sty
+Package: array 2021/10/04 v2.5f Tabular extension package (FMi)
+\col@sep=\dimen164
+\ar@mcellbox=\box54
+\extrarowheight=\dimen165
+\NC@list=\toks26
+\extratabsurround=\skip66
+\backup@length=\skip67
+\ar@cellbox=\box55
+)
+\everycr=\toks27
+\minrowclearance=\skip68
+)
+\rownum=\count283
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1352.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1356.
+Package xcolor Info: Model `RGB' extended on input line 1368.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1370.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1374.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1375.
+)
+(/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/latex/csvsimple/csvsimple.sty (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/latex/l3packages/l3keys2e/l3keys2e.sty (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/latex/l3kernel/expl3.sty
+Package: expl3 2022-02-24 L3 programming layer (loader) 
+ (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count284
+\l__pdf_internal_box=\box56
+))
+Package: l3keys2e 2022-01-12 LaTeX2e option processing using LaTeX3 keys
+)
+Package: csvsimple 2022/02/01 v2.3.0 LaTeX CSV file processing
+) (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/latex/csvsimple/csvsimple-legacy.sty
+Package: csvsimple-legacy 2022/02/01 version 2.3.0 LaTeX2e CSV file processing
+ (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/latex/pgf/utilities/pgfrcs.sty (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks28
+\pgfutil@tempdima=\dimen166
+\pgfutil@tempdimb=\dimen167
+ (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/generic/pgf/utilities/pgfutil-common-lists.tex)) (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box57
+) (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/generic/pgf/utilities/pgfrcs.code.tex (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2021/05/15 v3.1.9a (3.1.9a)
+)) (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/latex/pgf/utilities/pgfkeys.sty (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks29
+\pgfkeys@temptoks=\toks30
+ (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex
+\pgfkeys@tmptoks=\toks31
+))) (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/latex/tools/shellesc.sty
+Package: shellesc 2019/11/08 v1.0c unified shell escape interface for LaTeX
+Package shellesc Info: Restricted shell escape enabled on input line 77.
+)
+\csv@file=\read3
+\c@csvinputline=\count285
+\c@csvrow=\count286
+\c@csvcol=\count287
+\csv@out=\write3
+)
+(/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+) (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/latex/tocloft/tocloft.sty
+Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
+Package tocloft Info: The document has chapter divisions on input line 51.
+\cftparskip=\skip69
+\cftbeforetoctitleskip=\skip70
+\cftaftertoctitleskip=\skip71
+\cftbeforepartskip=\skip72
+\cftpartnumwidth=\skip73
+\cftpartindent=\skip74
+\cftbeforechapskip=\skip75
+\cftchapindent=\skip76
+\cftchapnumwidth=\skip77
+\cftbeforesecskip=\skip78
+\cftsecindent=\skip79
+\cftsecnumwidth=\skip80
+\cftbeforesubsecskip=\skip81
+\cftsubsecindent=\skip82
+\cftsubsecnumwidth=\skip83
+\cftbeforesubsubsecskip=\skip84
+\cftsubsubsecindent=\skip85
+\cftsubsubsecnumwidth=\skip86
+\cftbeforeparaskip=\skip87
+\cftparaindent=\skip88
+\cftparanumwidth=\skip89
+\cftbeforesubparaskip=\skip90
+\cftsubparaindent=\skip91
+\cftsubparanumwidth=\skip92
+\cftbeforeloftitleskip=\skip93
+\cftafterloftitleskip=\skip94
+\cftbeforefigskip=\skip95
+\cftfigindent=\skip96
+\cftfignumwidth=\skip97
+\c@lofdepth=\count288
+\c@lotdepth=\count289
+\cftbeforelottitleskip=\skip98
+\cftafterlottitleskip=\skip99
+\cftbeforetabskip=\skip100
+\cfttabindent=\skip101
+\cfttabnumwidth=\skip102
+) (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2021/01/28 v4.0.1 Extensive control of page headers and footers
+\f@nch@headwidth=\skip103
+\f@nch@O@elh=\skip104
+\f@nch@O@erh=\skip105
+\f@nch@O@olh=\skip106
+\f@nch@O@orh=\skip107
+\f@nch@O@elf=\skip108
+\f@nch@O@erf=\skip109
+\f@nch@O@olf=\skip110
+\f@nch@O@orf=\skip111
+) (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2022-02-21 v7.00n Hypertext links for LaTeX
+ (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+) (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+ (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+) (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+) (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+) (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+) (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+) (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+) (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+)
+\@linkdim=\dimen168
+\Hy@linkcounter=\count290
+\Hy@pagecounter=\count291
+ (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2022-02-21 v7.00n Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+) (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count292
+ (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/latex/hyperref/puenc.def
+File: puenc.def 2022-02-21 v7.00n Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Option `bookmarks' set `true' on input line 4018.
+Package hyperref Info: Hyper figures OFF on input line 4137.
+Package hyperref Info: Link nesting OFF on input line 4142.
+Package hyperref Info: Hyper index ON on input line 4145.
+Package hyperref Info: Plain pages OFF on input line 4152.
+Package hyperref Info: Backreferencing OFF on input line 4157.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4390.
+\c@Hy@tempcnt=\count293
+ (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4749.
+\XeTeXLinkMargin=\dimen169
+ (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+ (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
+))
+\Fld@menulength=\count294
+\Field@Width=\dimen170
+\Fld@charsize=\dimen171
+Package hyperref Info: Hyper figures OFF on input line 6027.
+Package hyperref Info: Link nesting OFF on input line 6032.
+Package hyperref Info: Hyper index ON on input line 6035.
+Package hyperref Info: backreferencing OFF on input line 6042.
+Package hyperref Info: Link coloring OFF on input line 6047.
+Package hyperref Info: Link coloring with OCG OFF on input line 6052.
+Package hyperref Info: PDF/A mode OFF on input line 6057.
+LaTeX Info: Redefining \ref on input line 6097.
+LaTeX Info: Redefining \pageref on input line 6101.
+ (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count295
+\c@Item=\count296
+\c@Hfootnote=\count297
+)
+Package hyperref Info: Driver: hpdftex.
+ (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2022-02-21 v7.00n Hyperref driver for pdfTeX
+ (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
+with kernel methods
+)
+\Fld@listcount=\count298
+\c@bookmark@seq@number=\count299
+ (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+ (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 286.
+)
+\Hy@SectionHShift=\skip112
+) (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/latex/chngcntr/chngcntr.sty
+Package: chngcntr 2018/04/09 v1.1a change counter resetting
+Package chngcntr Info: \counterwithout already defined.
+(chngcntr)             Quitting chngcntr on input line 21.
+) (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/latex/caption/caption.sty
+Package: caption 2022/03/01 v3.6b Customizing captions (AR)
+ (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/latex/caption/caption3.sty
+Package: caption3 2022/03/17 v2.3b caption3 kernel (AR)
+\caption@tempdima=\dimen172
+\captionmargin=\dimen173
+\caption@leftmargin=\dimen174
+\caption@rightmargin=\dimen175
+\caption@width=\dimen176
+\caption@indent=\dimen177
+\caption@parindent=\dimen178
+\caption@hangindent=\dimen179
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count300
+\c@continuedfloat=\count301
+Package caption Info: hyperref package is loaded.
+) (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\enitkv@toks@=\toks32
+\labelindent=\skip113
+\enit@outerparindent=\dimen180
+\enit@toks=\toks33
+\enit@inbox=\box58
+\enit@count@id=\count302
+\enitdp@description=\count303
+) (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/latex/background/background.sty
+Package: background 2014/03/04 v2.1 background material
+ (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/latex/pgf/frontendlayer/tikz.sty
+(/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/latex/pgf/basiclayer/pgf.sty
+Package: pgf 2021/05/15 v3.1.9a (3.1.9a)
+ (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/latex/pgf/basiclayer/pgfcore.sty (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/latex/pgf/systemlayer/pgfsys.sty (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2021/05/15 v3.1.9a (3.1.9a)
+ (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/generic/pgf/utilities/pgfkeys.code.tex)
+\pgf@x=\dimen181
+\pgf@y=\dimen182
+\pgf@xa=\dimen183
+\pgf@ya=\dimen184
+\pgf@xb=\dimen185
+\pgf@yb=\dimen186
+\pgf@xc=\dimen187
+\pgf@yc=\dimen188
+\pgf@xd=\dimen189
+\pgf@yd=\dimen190
+\w@pgf@writea=\write4
+\r@pgf@reada=\read4
+\c@pgf@counta=\count304
+\c@pgf@countb=\count305
+\c@pgf@countc=\count306
+\c@pgf@countd=\count307
+\t@pgf@toka=\toks34
+\t@pgf@tokb=\toks35
+\t@pgf@tokc=\toks36
+\pgf@sys@id@count=\count308
+ (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2021/05/15 v3.1.9a (3.1.9a)
+)
+Driver file for pgf: pgfsys-pdftex.def
+ (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2021/05/15 v3.1.9a (3.1.9a)
+ (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2021/05/15 v3.1.9a (3.1.9a)
+))) (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfsyssoftpath@smallbuffer@items=\count309
+\pgfsyssoftpath@bigbuffer@items=\count310
+) (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)) (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2021/05/15 v3.1.9a (3.1.9a)
+ (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/generic/pgf/math/pgfmath.code.tex (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/generic/pgf/math/pgfmathcalc.code.tex (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/generic/pgf/math/pgfmathutil.code.tex) (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen191
+\pgfmath@count=\count311
+\pgfmath@box=\box59
+\pgfmath@toks=\toks37
+\pgfmath@stack@operand=\toks38
+\pgfmath@stack@operation=\toks39
+)
+(/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/generic/pgf/math/pgfmathfunctions.code.tex (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex) (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex) (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/generic/pgf/math/pgfmathfunctions.random.code.tex) (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex) (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/generic/pgf/math/pgfmathfunctions.base.code.tex) (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/generic/pgf/math/pgfmathfunctions.round.code.tex) (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex) (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics.code.tex))) (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count312
+)) (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/generic/pgf/math/pgfint.code.tex) (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@picminx=\dimen192
+\pgf@picmaxx=\dimen193
+\pgf@picminy=\dimen194
+\pgf@picmaxy=\dimen195
+\pgf@pathminx=\dimen196
+\pgf@pathmaxx=\dimen197
+\pgf@pathminy=\dimen198
+\pgf@pathmaxy=\dimen199
+\pgf@xx=\dimen256
+\pgf@xy=\dimen257
+\pgf@yx=\dimen258
+\pgf@yy=\dimen259
+\pgf@zx=\dimen260
+\pgf@zy=\dimen261
+) (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@path@lastx=\dimen262
+\pgf@path@lasty=\dimen263
+)
+(/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@shorten@end@additional=\dimen264
+\pgf@shorten@start@additional=\dimen265
+) (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfpic=\box60
+\pgf@hbox=\box61
+\pgf@layerbox@main=\box62
+\pgf@picture@serial@count=\count313
+) (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgflinewidth=\dimen266
+) (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@pt@x=\dimen267
+\pgf@pt@y=\dimen268
+\pgf@pt@temp=\dimen269
+) (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfarrowsep=\dimen270
+) (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@max=\dimen271
+\pgf@sys@shading@range@num=\count314
+\pgf@shadingcount=\count315
+) (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+ (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfexternal@startupbox=\box63
+)) (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+))) (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfnodeparttextbox=\box64
+) (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@nodesepstart=\dimen272
+\pgf@nodesepend=\dimen273
+) (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2021/05/15 v3.1.9a (3.1.9a)
+)) (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/latex/pgf/utilities/pgffor.sty (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/latex/pgf/math/pgfmath.sty (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/generic/pgf/math/pgfmath.code.tex)) (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2021/05/15 v3.1.9a (3.1.9a)
+ (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen274
+\pgffor@skip=\dimen275
+\pgffor@stack=\toks40
+\pgffor@toks=\toks41
+)) (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2021/05/15 v3.1.9a (3.1.9a)
+ (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@plot@mark@count=\count316
+\pgfplotmarksize=\dimen276
+)
+\tikz@lastx=\dimen277
+\tikz@lasty=\dimen278
+\tikz@lastxsaved=\dimen279
+\tikz@lastysaved=\dimen280
+\tikz@lastmovetox=\dimen281
+\tikz@lastmovetoy=\dimen282
+\tikzleveldistance=\dimen283
+\tikzsiblingdistance=\dimen284
+\tikz@figbox=\box65
+\tikz@figbox@bg=\box66
+\tikz@tempbox=\box67
+\tikz@tempbox@bg=\box68
+\tikztreelevel=\count317
+\tikznumberofchildren=\count318
+\tikznumberofcurrentchild=\count319
+\tikz@fig@count=\count320
+ (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfmatrixcurrentrow=\count321
+\pgfmatrixcurrentcolumn=\count322
+\pgf@matrix@numberofcolumns=\count323
+)
+\tikz@expandcount=\count324
+
+(/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+))) (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/latex/everypage/everypage.sty
+Package: everypage 2020/10/17 R2.0b Hooks to run on every page
+
+
+Package everypage Warning: Functionality similar to this package has recently
+(everypage)                been implemented in LaTeX. This package is now in
+(everypage)                legacy status.
+(everypage)                Please, don't use it in new documents and packages.
+
+
+Package everypage Warning: You appear to be running a version of LaTeX
+(everypage)                providing the new functionality.
+(everypage)                Doing the best to deliver the original `everypage`
+(everypage)                interface on top of it. Strict equivalence is
+(everypage)                not possible, breakage may occur.
+(everypage)                If truly needed, Use `everypage-1x` to force the
+(everypage)                loading of an older code base.
+
+) (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/latex/tools/afterpage.sty
+Package: afterpage 2014/10/28 v1.08 After-Page Package (DPC)
+\AP@output=\toks42
+\AP@partial=\box69
+\AP@footins=\box70
+)) (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/latex/listings/listings.sty
+\lst@mode=\count325
+\lst@gtempboxa=\box71
+\lst@token=\toks43
+\lst@length=\count326
+\lst@currlwidth=\dimen285
+\lst@column=\count327
+\lst@pos=\count328
+\lst@lostspace=\dimen286
+\lst@width=\dimen287
+\lst@newlines=\count329
+\lst@lineno=\count330
+\lst@maxwidth=\dimen288
+ (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count331
+\lst@skipnumbers=\count332
+\lst@framebox=\box72
+) (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/latex/listings/listings.cfg
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+ (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count333
+\float@exts=\toks44
+\float@box=\box73
+\@float@everytoks=\toks45
+\@floatcapt=\box74
+)
+\c@appendices=\count334
+\cftbeforeappendicesskip=\skip114
+\cftappendicesindent=\skip115
+\cftappendicesnumwidth=\skip116
+\c@apcdepth=\count335
+\cftbeforeapctitleskip=\skip117
+\cftafterapctitleskip=\skip118
+ (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/latex/biblatex/biblatex.sty
+Package: biblatex 2022/02/02 v3.17 programmable bibliographies (PK/MW)
+ (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/latex/logreq/logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count336
+ (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/latex/logreq/logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+))
+\c@tabx@nest=\count337
+\c@listtotal=\count338
+\c@listcount=\count339
+\c@liststart=\count340
+\c@liststop=\count341
+\c@citecount=\count342
+\c@citetotal=\count343
+\c@multicitecount=\count344
+\c@multicitetotal=\count345
+\c@instcount=\count346
+\c@maxnames=\count347
+\c@minnames=\count348
+\c@maxitems=\count349
+\c@minitems=\count350
+\c@citecounter=\count351
+\c@maxcitecounter=\count352
+\c@savedcitecounter=\count353
+\c@uniquelist=\count354
+\c@uniquename=\count355
+\c@refsection=\count356
+\c@refsegment=\count357
+\c@maxextratitle=\count358
+\c@maxextratitleyear=\count359
+\c@maxextraname=\count360
+\c@maxextradate=\count361
+\c@maxextraalpha=\count362
+\c@abbrvpenalty=\count363
+\c@highnamepenalty=\count364
+\c@lownamepenalty=\count365
+\c@maxparens=\count366
+\c@parenlevel=\count367
+\blx@tempcnta=\count368
+\blx@tempcntb=\count369
+\blx@tempcntc=\count370
+\c@blx@maxsection=\count371
+\c@blx@maxsegment@0=\count372
+\blx@notetype=\count373
+\blx@parenlevel@text=\count374
+\blx@parenlevel@foot=\count375
+\c@blx@sectionciteorder@0=\count376
+\blx@entrysetcounter=\count377
+\blx@biblioinstance=\count378
+\labelnumberwidth=\skip119
+\labelalphawidth=\skip120
+\biblabelsep=\skip121
+\bibitemsep=\skip122
+\bibnamesep=\skip123
+\bibinitsep=\skip124
+\bibparsep=\skip125
+\bibhang=\skip126
+\blx@bcfin=\read5
+\blx@bcfout=\write5
+\blx@langwohyphens=\language88
+\c@mincomprange=\count379
+\c@maxcomprange=\count380
+\c@mincompwidth=\count381
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+ (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/latex/biblatex/blx-dm.def
+File: blx-dm.def 2022/02/02 v3.17 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex style data model...
+Package biblatex Info: ... file 'authoryear.dbx' not found.
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count382
+\c@savedafterword=\count383
+\c@annotator=\count384
+\c@savedannotator=\count385
+\c@author=\count386
+\c@savedauthor=\count387
+\c@bookauthor=\count388
+\c@savedbookauthor=\count389
+\c@commentator=\count390
+\c@savedcommentator=\count391
+\c@editor=\count392
+\c@savededitor=\count393
+\c@editora=\count394
+\c@savededitora=\count395
+\c@editorb=\count396
+\c@savededitorb=\count397
+\c@editorc=\count398
+\c@savededitorc=\count399
+\c@foreword=\count400
+\c@savedforeword=\count401
+\c@holder=\count402
+\c@savedholder=\count403
+\c@introduction=\count404
+\c@savedintroduction=\count405
+\c@namea=\count406
+\c@savednamea=\count407
+\c@nameb=\count408
+\c@savednameb=\count409
+\c@namec=\count410
+\c@savednamec=\count411
+\c@translator=\count412
+\c@savedtranslator=\count413
+\c@shortauthor=\count414
+\c@savedshortauthor=\count415
+\c@shorteditor=\count416
+\c@savedshorteditor=\count417
+\c@labelname=\count418
+\c@savedlabelname=\count419
+\c@institution=\count420
+\c@savedinstitution=\count421
+\c@lista=\count422
+\c@savedlista=\count423
+\c@listb=\count424
+\c@savedlistb=\count425
+\c@listc=\count426
+\c@savedlistc=\count427
+\c@listd=\count428
+\c@savedlistd=\count429
+\c@liste=\count430
+\c@savedliste=\count431
+\c@listf=\count432
+\c@savedlistf=\count433
+\c@location=\count434
+\c@savedlocation=\count435
+\c@organization=\count436
+\c@savedorganization=\count437
+\c@origlocation=\count438
+\c@savedoriglocation=\count439
+\c@origpublisher=\count440
+\c@savedorigpublisher=\count441
+\c@publisher=\count442
+\c@savedpublisher=\count443
+\c@language=\count444
+\c@savedlanguage=\count445
+\c@origlanguage=\count446
+\c@savedoriglanguage=\count447
+\c@pageref=\count448
+\c@savedpageref=\count449
+\shorthandwidth=\skip127
+\shortjournalwidth=\skip128
+\shortserieswidth=\skip129
+\shorttitlewidth=\skip130
+\shortauthorwidth=\skip131
+\shorteditorwidth=\skip132
+\locallabelnumberwidth=\skip133
+\locallabelalphawidth=\skip134
+\localshorthandwidth=\skip135
+\localshortjournalwidth=\skip136
+\localshortserieswidth=\skip137
+\localshorttitlewidth=\skip138
+\localshortauthorwidth=\skip139
+\localshorteditorwidth=\skip140
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+ (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/latex/biblatex/blx-compat.def
+File: blx-compat.def 2022/02/02 v3.17 biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+ (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/latex/biblatex/biblatex.def
+File: biblatex.def 2022/02/02 v3.17 biblatex compatibility (PK/MW)
+\c@textcitecount=\count450
+\c@textcitetotal=\count451
+\c@textcitemaxnames=\count452
+\c@biburlbigbreakpenalty=\count453
+\c@biburlbreakpenalty=\count454
+\c@biburlnumpenalty=\count455
+\c@biburlucpenalty=\count456
+\c@biburllcpenalty=\count457
+\biburlbigskip=\muskip18
+\biburlnumskip=\muskip19
+\biburlucskip=\muskip20
+\biburllcskip=\muskip21
+\c@smartand=\count458
+)
+Package biblatex Info: Trying to load bibliography style 'authoryear'...
+Package biblatex Info: ... file 'authoryear.bbx' found.
+ (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/latex/biblatex/bbx/authoryear.bbx
+File: authoryear.bbx 2022/02/02 v3.17 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+ (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/latex/biblatex/bbx/standard.bbx
+File: standard.bbx 2022/02/02 v3.17 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count459
+\c@bbx:relatedtotal=\count460
+))
+Package biblatex Info: Trying to load citation style 'apa'...
+Package biblatex Info: ... file 'apa.cbx' found.
+ (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/latex/biblatex-apa/apa.cbx
+File: apa.cbx 2021/12/24 v9.15 APA biblatex citation style
+Package biblatex Info: Delimiter 'nameyeardelim' in context '' already defined, overwriting.
+Package biblatex Info: Delimiter 'andothersdelim' in context '' already defined, overwriting.
+Package biblatex Info: Redefining '\fullcite'.
+Package biblatex Info: Redefining '\citeauthor'.
+Package biblatex Info: Redefining '\citeyear'.
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcites'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\footcitetexts'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\smartcites'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+ (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/latex/biblatex/biblatex.cfg
+File: biblatex.cfg 
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Document encoding is UTF8 ....
+Package biblatex Info: ... and expl3
+(biblatex)             2022-02-24 L3 programming layer (loader) 
+(biblatex)             is new enough (at least 2020/04/06),
+(biblatex)             setting 'casechanger=expl3'.
+ (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/latex/biblatex/blx-case-expl3.sty
+(/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2022-01-12 L3 Experimental document command parser
+)
+Package: blx-case-expl3 2022/02/02 v3.17 expl3 case changing code for biblatex
+)) (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count461
+\Gm@cntv=\count462
+\c@Gm@tempcnt=\count463
+\Gm@bindingoffset=\dimen289
+\Gm@wd@mp=\dimen290
+\Gm@odd@mp=\dimen291
+\Gm@even@mp=\dimen292
+\Gm@layoutwidth=\dimen293
+\Gm@layoutheight=\dimen294
+\Gm@layouthoffset=\dimen295
+\Gm@layoutvoffset=\dimen296
+\Gm@dimlist=\toks46
+)) (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/latex/tools/longtable.sty
+Package: longtable 2021-09-01 v4.17 Multi-page Table package (DPC)
+\LTleft=\skip141
+\LTright=\skip142
+\LTpre=\skip143
+\LTpost=\skip144
+\LTchunksize=\count464
+\LTcapwidth=\dimen297
+\LT@head=\box75
+\LT@firsthead=\box76
+\LT@foot=\box77
+\LT@lastfoot=\box78
+\LT@gbox=\box79
+\LT@cols=\count465
+\LT@rows=\count466
+\c@LT@tables=\count467
+\c@LT@chunks=\count468
+\LT@p@ftn=\toks47
+) (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/latex/blindtext/blindtext.sty
+Package: blindtext 2012/01/06 V2.0 blindtext-Package
+ (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/latex/tools/xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+\c@blindtext=\count469
+\c@Blindtext=\count470
+\c@blind@countparstart=\count471
+\blind@countxx=\count472
+\blindtext@numBlindtext=\count473
+\blind@countyy=\count474
+\c@blindlist=\count475
+\c@blindlistlevel=\count476
+\c@blindlist@level=\count477
+\blind@listitem=\count478
+\c@blind@listcount=\count479
+\c@blind@levelcount=\count480
+\blind@mathformula=\count481
+\blind@Mathformula=\count482
+\c@blind@randomcount=\count483
+\c@blind@randommax=\count484
+\c@blind@pangramcount=\count485
+\c@blind@pangrammax=\count486
+)
+./seminar-hasil.tex:12: Undefined control sequence.
+l.12 \idnum
+           {H131 16 002}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+./seminar-hasil.tex:12: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.12 \idnum{H
+             131 16 002}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+LaTeX Font Info:    Trying to load font information for OT1+ntxtlf on input line 31.
+(/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/latex/newtx/ot1ntxtlf.fd
+File: ot1ntxtlf.fd 2021/05/24 v1.0 font definition file for OT1/ntx/tlf
+)
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+(Font)              scaled to size 12.0pt on input line 31.
+\@quotelevel=\count487
+\@quotereset=\count488
+ (./seminar-hasil.aux)
+\openout1 = `seminar-hasil.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/ntxmi/m/it on input line 31.
+LaTeX Font Info:    Trying to load font information for OML+ntxmi on input line 31.
+ (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/latex/newtx/omlntxmi.fd
+File: omlntxmi.fd 2015/08/25 Fontinst v1.933 font definitions for OML/ntxmi.
+)
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 31.
+LaTeX Font Info:    Trying to load font information for U+ntxexa on input line 31.
+ (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/latex/newtx/untxexa.fd
+File: untxexa.fd 2012/04/16 Fontinst v1.933 font definitions for U/ntxexa.
+)
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 31.
+LaTeX Font Info:    Trying to load font information for LMS+ntxsy on input line 31.
+ (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/latex/newtx/lmsntxsy.fd
+File: lmsntxsy.fd 2016/07/02 Fontinst v1.933 font definitions for LMS/ntxsy.
+)
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 31.
+LaTeX Font Info:    Trying to load font information for LMX+ntxexx on input line 31.
+ (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/latex/newtx/lmxntxexx.fd
+File: lmxntxexx.fd 2016/07/03 Fontinst v1.933 font definitions for LMX/ntxexx.
+)
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+\c@mv@tabular=\count489
+\c@mv@boldtabular=\count490
+ (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count491
+\scratchdimen=\dimen298
+\scratchbox=\box80
+\nofMPsegments=\count492
+\nofMParguments=\count493
+\everyMPshowfont=\toks48
+\MPscratchCnt=\count494
+\MPscratchDim=\dimen299
+\MPnumerator=\count495
+\makeMPintoPDFobject=\count496
+\everyMPtoPDFconversion=\toks49
+) (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+Package hyperref Info: Link coloring OFF on input line 31.
+ (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/latex/hyperref/nameref.sty
+Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
+ (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+) (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count497
+)
+LaTeX Info: Redefining \ref on input line 31.
+LaTeX Info: Redefining \pageref on input line 31.
+LaTeX Info: Redefining \nameref on input line 31.
+\@outlinefile=\write6
+\openout6 = `seminar-hasil.out'.
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: longtable package is loaded.
+ (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/latex/caption/ltcaption.sty
+Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
+)
+Package caption Info: End \AtBeginDocument code.
+\c@lstlisting=\count498
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+ (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/latex/biblatex/lbx/english.lbx
+File: english.lbx 2022/02/02 v3.17 biblatex localization (PK/MW)
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+\openout5 = `seminar-hasil.bcf'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'seminar-hasil.bbl' not found.
+
+No file seminar-hasil.bbl.
+Package biblatex Info: Reference section=0 on input line 31.
+Package biblatex Info: Reference segment=0 on input line 31.
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(113.81102pt, 398.3386pt, 85.35826pt)
+* v-part:(T,H,B)=(85.35826pt, 674.33032pt, 85.35826pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=398.3386pt
+* \textheight=674.33032pt
+* \oddsidemargin=41.54103pt
+* \evensidemargin=41.54103pt
+* \topmargin=-23.91173pt
+* \headheight=14.49998pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/it' will be
+(Font)              scaled to size 12.0pt on input line 33.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
+(Font)              scaled to size 12.0pt on input line 34.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/b/it' will be
+(Font)              scaled to size 12.0pt on input line 34.
+<images/Logo_UIR.png, id=7, 1125.9666pt x 1294.3557pt>
+File: images/Logo_UIR.png Graphic file (type png)
+<use images/Logo_UIR.png>
+Package pdftex.def Info: images/Logo_UIR.png  used on input line 34.
+(pdftex.def)             Requested size: 154.67914pt x 177.82971pt.
+
+./seminar-hasil.tex:34: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.34     \coverproposal
+                       
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[1
+
+{/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./images/Logo_UIR.png
+
+pdfTeX warning: /nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/bin/pdflatex (file ./images/Logo_UIR.png): large interlaced PNG might cause out of memory (use non-interlaced PNG to fix this)
+>]
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+(Font)              scaled to size 17.28pt on input line 41.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
+(Font)              scaled to size 17.28pt on input line 41.
+\tf@toc=\write7
+\openout7 = `seminar-hasil.toc'.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.i}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.43 
+      [1]
+\tf@lot=\write8
+\openout8 = `seminar-hasil.lot'.
+
+ [2]
+\tf@lof=\write9
+\openout9 = `seminar-hasil.lof'.
+
+ [3]
+\tf@apc=\write10
+\openout10 = `seminar-hasil.apc'.
+
+ [4] (./include/bab1.tex
+BAB I.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+(Font)              scaled to size 14.4pt on input line 1.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
+(Font)              scaled to size 14.4pt on input line 1.
+
+Underfull \hbox (badness 2150) in paragraph at lines 12--13
+\OT1/ntxtlf/m/n/12 pen-go-la-han citra dig-i-tal meng-gu-nakan vi-su-al-isasi in-ter-ak-tif berba-sis web.
+ []
+
+[1
+
+]
+Underfull \hbox (badness 2012) in paragraph at lines 23--24
+[]\OT1/ntxtlf/m/n/12 Tidak banyaknya me-dia pem-be-la-jaran pen-go-la-han citra dig-i-tal yang
+ []
+
+[2]
+Underfull \hbox (badness 6808) in paragraph at lines 36--37
+[]\OT1/ntxtlf/m/n/12 Bagaimana men-gukur efek-tiv-i-tas me-dia pem-be-la-jaran yang telah
+ []
+
+
+Underfull \hbox (badness 1902) in paragraph at lines 37--38
+[]\OT1/ntxtlf/m/n/12 Bagaimana tingkat kepuasan ma-ha-siswa ter-hadap peng-gu-naan me-dia
+ []
+
+
+Underfull \hbox (badness 3179) in paragraph at lines 46--47
+\OT1/ntxtlf/m/n/12 me-dia pem-be-la-jaran yang meng-gu-nakan vi-su-al-isasi in-ter-ak-tif un-tuk
+ []
+
+[3]
+Underfull \hbox (badness 2846) in paragraph at lines 49--50
+[]\OT1/ntxtlf/m/n/12 Batasan waktu pengem-ban-gan: Pengem-ban-gan me-dia pem-be-la-jaran
+ []
+
+
+Underfull \hbox (badness 1365) in paragraph at lines 53--54
+\OT1/ntxtlf/m/n/12 teknologi web dan vi-su-al-isasi in-ter-ak-tif. Se-lain itu, peneli-tian ini juga
+ []
+
+[4]
+Underfull \hbox (badness 2828) in paragraph at lines 61--62
+\OT1/ntxtlf/m/n/12 teknologi in-for-masi dan ko-mu-nikasi:Penelitian ini di-hara-p-kan da-pat
+ []
+
+) (./include/bab2.tex [5]
+BAB II.
+
+LaTeX Warning: Citation 'suryadibrata2020visualisasi' on page 6 undefined on input line 5.
+
+
+Underfull \hbox (badness 3428) in paragraph at lines 5--6
+[][] \OT1/ntxtlf/m/n/12 mem-buat vi-su-al-isasi al-go-ritma \OT1/ntxtlf/m/it/12 K-Means
+ []
+
+
+LaTeX Warning: Citation 'zarkasyi2015pengembangan' on page 6 undefined on input line 9.
+
+[6
+
+]
+
+LaTeX Warning: Citation 'maulana2021penerapan' on page 7 undefined on input line 11.
+
+
+LaTeX Warning: Citation 'maulana2021penerapan' on page 7 undefined on input line 11.
+
+
+Underfull \hbox (badness 1694) in paragraph at lines 11--12
+[]\OT1/ntxtlf/m/n/12 Dengan meng-gu-nakan me-dia in-ter-ak-tif, pen-ga-jar da-pat lebih mu-dah
+ []
+
+
+Underfull \hbox (badness 2050) in paragraph at lines 13--14
+\OT1/ntxtlf/m/n/12 bahwa peng-gu-naan ap-likasi vi-su-al-isasi dan me-dia pem-be-la-jaran in-ter-ak-tif
+ []
+
+
+LaTeX Warning: Citation 'munantri2020aplikasi' on page 7 undefined on input line 17.
+
+
+LaTeX Warning: Citation 'munantri2020aplikasi' on page 7 undefined on input line 19.
+
+[7]
+
+LaTeX Warning: Citation 'IPI1759345' on page 8 undefined on input line 25.
+
+
+Underfull \hbox (badness 1087) in paragraph at lines 25--26
+\OT1/ntxtlf/m/n/12 mem-per-li-hatkan perbe-daan ni-lai pik-sel yang sig-nifikan den-gan ni-lai pik-sel
+ []
+
+
+LaTeX Warning: Citation 'mulyanto2009teori' on page 8 undefined on input line 31.
+
+
+Underfull \hbox (badness 2310) in paragraph at lines 31--32
+[]\OT1/ntxtlf/m/n/12 Operator Roberts adalah op-er-a-tor yang berba-sis gra-dien yang
+ []
+
+
+LaTeX Warning: Citation 'arsyad2011media' on page 8 undefined on input line 35.
+
+[8]
+
+LaTeX Warning: Citation 'nurrita2018pengembangan' on page 9 undefined on input line 37.
+
+
+Underfull \hbox (badness 4492) in paragraph at lines 37--38
+[][] \OT1/ntxtlf/m/n/12 men-je-laskan bahwa me-dia pem-be-la-jaran
+ []
+
+[9] [10]
+
+LaTeX Warning: Citation 'khotijah2016perancangan' on page 11 undefined on input line 63.
+
+
+Underfull \hbox (badness 1990) in paragraph at lines 67--68
+[]\OT1/ntxtlf/m/n/12 Keuntungan dari peng-gu-naan DFD adalah memu-dahkan dalam
+ []
+
+
+Underfull \hbox (badness 2261) in paragraph at lines 67--68
+\OT1/ntxtlf/m/n/12 mengi-den-ti-fikasi ke-bu-tuhan fung-sional su-atu sis-tem, mengi-den-ti-fikasi
+ []
+
+[11]
+Underfull \hbox (badness 1603) in paragraph at lines 91--92
+\OT1/ntxtlf/m/n/12 JavaScript da-pat di-gu-nakan un-tuk mem-buat tampi-lan in-ter-ak-tif yang
+ []
+
+[12]
+Underfull \hbox (badness 1303) in paragraph at lines 97--98
+\OT1/ntxtlf/m/n/12 pent-ing dalam meningkatkan in-ter-ak-tiv-i-tas dan pema-haman peng-guna
+ []
+
+
+Underfull \hbox (badness 1490) in paragraph at lines 103--104
+[]\OT1/ntxtlf/m/n/12 Dalam kon-teks ini penulis meng-gu-nakan Boot-strap yang da-pat
+ []
+
+
+Underfull \hbox (badness 2884) in paragraph at lines 105--106
+\OT1/ntxtlf/m/n/12 re-spon-sif atau \OT1/ntxtlf/m/it/12 mobile-friendly\OT1/ntxtlf/m/n/12 . Dalam era dig-i-tal yang se-makin
+ []
+
+[13]
+LaTeX Font Info:    Trying to load font information for OT1+minntx on input line 115.
+ (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/latex/newtx/ot1minntx.fd
+File: ot1minntx.fd 2022/01/20 v1.0 font definition file for OT1/minntx
+)
+LaTeX Font Info:    Trying to load font information for U+ntxmia on input line 115.
+ (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/latex/newtx/untxmia.fd
+File: untxmia.fd 2018/04/14 Fontinst v1.933 font definitions for U/ntxmia.
+)
+LaTeX Font Info:    Trying to load font information for U+ntxsym on input line 115.
+ (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/latex/newtx/untxsym.fd
+File: untxsym.fd 2015/03/20 Fontinst v1.933 font definitions for U/ntxsym.
+)
+LaTeX Font Info:    Trying to load font information for U+ntxsyc on input line 115.
+ (/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/tex/latex/newtx/untxsyc.fd
+File: untxsyc.fd 2012/04/12 Fontinst v1.933 font definitions for U/ntxsyc.
+)
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+(Font)              scaled to size 20.74pt on input line 126.
+
+Underfull \hbox (badness 10000) in paragraph at lines 147--147
+\OT1/minntx/m/n/12 meng-gu-nakan
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 147--147
+[]|\OT1/minntx/m/n/12 Coding meng-gu-nakan HTML,
+ []
+
+
+Underfull \hbox (badness 5548) in paragraph at lines 147--147
+\OT1/minntx/m/n/12 CSS,Javascript, dan frame-work
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 147--148
+[]|\OT1/minntx/m/n/12 Melakukan
+ []
+
+[14]
+Overfull \hbox (7.67743pt too wide) in paragraph at lines 186--194
+ [] 
+ []
+
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+(Font)              scaled to size 10.95pt on input line 194.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
+(Font)              scaled to size 10.95pt on input line 194.
+) (./include/bab3.tex [15]
+BAB III.
+) (./include/bab4.tex [16
+
+]
+BAB IV.
+) (./include/bab5.tex [17
+
+]
+BAB V.
+[18
+
+]) [19]
+
+LaTeX Warning: Empty bibliography on input line 77.
+
+(./include/lampiran.tex [20]) [21
+
+] (./seminar-hasil.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+Package rerunfilecheck Warning: File `seminar-hasil.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `seminar-hasil.out':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  C1965A4E879E1022E3610D4D4868E783;3832.
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                seminar-hasil
+(biblatex)                and rerun LaTeX afterwards.
+
+Package logreq Info: Writing requests to 'seminar-hasil.run.xml'.
+\openout1 = `seminar-hasil.run.xml'.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 36837 strings out of 478278
+ 704711 string characters out of 5819600
+ 1328866 words of memory out of 5000000
+ 54350 multiletter control sequences out of 15000+600000
+ 510716 words of font info for 106 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 118i,12n,131p,864b,1297s stack positions out of 5000i,500n,10000p,200000b,80000s
+pdfTeX warning (dest): name{cite.0@maulana2021penerapan} has been referenced but does not exist, replaced by a fixed one
+
+{/nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc}</nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/fonts/type1/public/amsfonts/cm/cmr12.pfb></nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/fonts/type1/public/newtx/txsys.pfb></nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/fonts/type1/public/newtx/ztmb.pfb></nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/fonts/type1/public/newtx/ztmbi.pfb></nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/fonts/type1/public/newtx/ztmr.pfb></nix/store/5f3aspn1m4x8nmls978x6zx7kh8kjaw7-texlive-combined-full-2021-final/share/texmf/fonts/type1/public/newtx/ztmri.pfb>
+Output written on seminar-hasil.pdf (26 pages, 1096169 bytes).
+PDF statistics:
+ 232 PDF objects out of 1000 (max. 8388607)
+ 188 compressed objects within 2 object streams
+ 84 named destinations out of 1000 (max. 500000)
+ 18 words of extra memory for PDF output out of 10000 (max. 10000000)
+

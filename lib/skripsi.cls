@@ -9,11 +9,11 @@
 % Original author:
 % Dir Sulaiman
 % https://github.com/dirsulaiman/skripsi
-% 
+%
 % Thanks and reference to:
 % Andi Kresna Jaya, S.Si.M.Si (unhasskripsi-latex)
 % Guntur D Putra (https://github.com/gtrdp/template-skripsi)
-% 
+%
 % License:
 % BSD 3-Clause "New" or "Revised" License
 % https://github.com/dirsulaiman/skripsi/blob/master/LICENSE
@@ -66,10 +66,10 @@
 \RequirePackage{chngcntr}
 
 % Setup the caption of figure, table and equation
-\RequirePackage[font=small, labelfont={it},textfont={it}, justification=centering]{caption}
+\RequirePackage[font=small, labelfont={bf}, justification=centering]{caption}
 
 % Setup label of enumerate item
-\RequirePackage{enumitem} 
+\RequirePackage{enumitem}
 % \renewcommand{\theenumi}{\Alph{enumi}}
 
 % use Watermark
@@ -81,11 +81,15 @@
 
 % float [H]
 \RequirePackage{float}
+
+% table
+\usepackage{array}
+
 %-----------------------------------------------------------
 % End Require Package
 %===========================================================
 
-\renewcommand{\baselinestretch}{1.42}
+\renewcommand{\baselinestretch}{1.5} % Jarak Antar Enter
 \renewcommand{\UrlFont}{\small\rm}
 
 \newcommand{\listappendicesname}{DAFTAR LAMPIRAN}
@@ -102,15 +106,18 @@
 \usepackage[
     backend=biber,
     style=authoryear,
-    citestyle=authoryear-comp,
-    sorting=nty,
+    citestyle=apa,
+    sorting=anyt,
     giveninits=false,
-    maxbibnames=3
+    maxbibnames=6
     ]{biblatex}
 \addbibresource{bibtex/daftar-pustaka.bib}
 
 % redefine "et al" in bib to "dkk"
 \DefineBibliographyStrings{english}{andothers={dkk\adddot}}
+\DefineBibliographyStrings{english}{and={dan}}
+\DeclareNameAlias{author}{family-given}
+\ExecuteBibliographyOptions{giveninits=true}
 % force to use quote in title field of bibliographi
 \DeclareFieldFormat
   [article,inbook,incollection,inproceedings,patent,thesis,masterthesis,misc,unpublished, book]
@@ -130,23 +137,10 @@
 %-----------------------------------------------------------
 \pagestyle{fancy}
 \fancyhf{}
-\fancyfoot[R]{\thepage}
+\fancyhead[R]{\thepage}
+\setlength{\headwidth}{\dimexpr\textwidth+9pt\relax}
 \renewcommand{\headrulewidth}{0pt}
 \renewcommand{\footrulewidth}{0pt}
-\fancypagestyle{plain}{ %style for chapter page
-    \fancyhf{} % clear all header and footer fields
-    \fancyfoot[R]{\thepage}
-    % \renewcommand{\headrulewidth}{0pt}
-    % \renewcommand{\footrulewidth}{0pt}
-}
-\fancypagestyle{empty}{ %style for cover
-    \fancyhf{}
-    % \renewcommand{\headrulewidth}{0pt}
-    % \renewcommand{\footrulewidth}{0pt}
-}
-\fancypagestyle{theheader}{ %style for header
-    \fancyhead[R]{Universitas Hasanuddin}
-}
 %-----------------------------------------------------------
 % End Setting footer, header and page number
 %===========================================================
@@ -214,19 +208,22 @@
 %===========================================================
 % Page Layout, Margin
 %-----------------------------------------------------------
-\setlength{\topmargin}{0cm}
-\setlength{\headheight}{1cm}
-\setlength{\headsep}{0.2cm}
-\setlength{\topskip}{1ex}
-\setlength{\oddsidemargin}{1.2cm}
-\setlength{\evensidemargin}{1.2cm}
-\setlength{\textwidth}{14.3cm}
-\setlength{\textheight}{22.7cm}
-\setlength{\footskip}{1cm}
-\setlength{\marginparsep}{0pt}
-\setlength{\marginparwidth}{0pt}
-%to set indent approx 6 character
-\setlength{\parindent}{3em} 
+\usepackage[a4paper]{geometry}
+\geometry{top=3cm,bottom=3cm,left=4cm,right=3cm}
+% \setlength{\topmargin}{0cm}
+% \setlength{\voffset}{-1.5cm}
+\setlength{\headheight}{14.49998pt}
+% \setlength{\headsep}{1cm}
+% \setlength{\topskip}{1ex}
+% \setlength{\oddsidemargin}{1.2cm}
+% \setlength{\evensidemargin}{1.2cm}
+% \setlength{\textwidth}{14.3cm}
+% \setlength{\textheight}{22.7cm}
+% \setlength{\footskip}{1cm}
+% \setlength{\marginparsep}{0pt}
+% \setlength{\marginparwidth}{50pt}
+% %to set indent approx 6 character
+\setlength{\parindent}{1cm} % Ukuran Tab
 %-----------------------------------------------------------
 % End Page Layout, Margin
 %===========================================================
@@ -236,8 +233,8 @@
 % Set Watermark
 %-----------------------------------------------------------
 \backgroundsetup{
-  scale=1,       
-  angle=0,       
+  scale=1,
+  angle=0,
   opacity=.2,
   hshift=3mm,
   contents={\includegraphics[width=14cm]{images/logoUH.png}}
@@ -274,14 +271,16 @@
 %===========================================================
 % Define thesis's inputs
 %-----------------------------------------------------------
+\newcommand{\typedocument}[1]{\gdef\@typedocument{#1}}
+\newcommand{\@typedocument}{}
 \newcommand{\titleskripsi}[1]{\gdef\@titleskripsi{#1}}
 \newcommand{\@titleskripsi}{}
 \newcommand{\titleeng}[1]{\gdef\@titleeng{#1}}
 \newcommand{\@titleeng}{}
 \newcommand{\fullname}[1]{\gdef\@fullname{#1}}
 \newcommand{\@fullname}{}
-\newcommand{\idnum}[1]{\gdef\@idnum{#1}}
-\newcommand{\@idnum}{}
+\newcommand{\npm}[1]{\gdef\@npm{#1}}
+\newcommand{\@npm}{}
 \newcommand{\datesubmit}[1]{\gdef\@datesubmit{#1}}
 \newcommand{\@datesubmit}{}
 \newcommand{\monthsubmit}[1]{\gdef\@monthsubmit{#1}}
@@ -328,37 +327,25 @@
 \def\coverproposal{
     \thispagestyle{empty}
     \pagenumbering{roman}
-    \setcounter{page}{1}
     \begin{center}
         \begin{singlespace}
+            \MakeUppercase{\normalfont\bfseries\@typedocument}\par\nobreak
+            \vspace{1cm}
             \MakeUppercase{\normalfont\bfseries\@titleskripsi}\par\nobreak
             \vfill
-            \includegraphics[height=4.85cm]{images/logoUH}
+            \includegraphics[height=6.25cm]{images/Logo_UIR.png}
             \vfill
 
-            Oleh\\
             \normalfont\bfseries{\@fullname}\\
-            \normalfont\bfseries{\@idnum}\\
+            \normalfont\bfseries{\@npm}\\
             \vfill
-
-            {\normalfont
-            \begin{tabular}{p{2cm}p{4cm}p{7cm}}
-                & Pembimbing Utama &: \@firstsupervisor\\
-                & Pembimbing Pertama  &: \@secondsupervisor\\
-                & Penguji  &: 1.\@firstexaminer\\
-                & & \hspace{1.8mm} 2.\@secondexaminer\\
-            \end{tabular}
-            }
 
             \vspace{2.0cm}
             {\normalfont
             \MakeUppercase{\normalfont\bfseries Program Studi \@program}\\
-            \MakeUppercase{\normalfont\bfseries Departemen \@dept}\\
             \MakeUppercase{\normalfont\bfseries Fakultas \@faculty}\\
             \MakeUppercase{\normalfont\bfseries\@university}\\
             \MakeUppercase{\normalfont\bfseries\@city}\\
-
-            \vspace{0.2cm}
             \normalfont\bfseries{\MakeUppercase{\@monthsubmit} {\@yearsubmit}}
             }
         \end{singlespace}
@@ -376,7 +363,6 @@
 \def\cover{%
     \thispagestyle{empty}%
     \pagenumbering{roman}
-    \setcounter{page}{1}
     \begin{center}
         \begin{singlespace}
             \MakeUppercase{\normalfont\bfseries Skripsi}
@@ -391,12 +377,12 @@
             \vspace{1.5cm}
 
             \normalfont\bfseries{\@fullname}\\
-            \normalfont\bfseries{\@idnum}\\
+            \normalfont\bfseries{\@npm}\\
             \vfill
 
             \includegraphics[height=4.85cm]{images/logoUH}
             \vfill
-            
+
             {\normalfont
             \MakeUppercase{\normalfont\bfseries Program Studi \@program}\\
             \MakeUppercase{\normalfont\bfseries Departemen \@dept}\\
@@ -437,7 +423,7 @@
 
             {\normalfont\bfseries
                 \@fullname\\
-                \@idnum
+                \@npm
             }\\
             \vfill
 
@@ -466,7 +452,7 @@
 \def\authenticationpage{
     \addwatermark
     \addcontentsline{toc}{chapter}{HALAMAN PERNYATAAN KEOTENTIKAN}
-    
+
     \begin{center}
         \MakeUppercase{\normalfont\large\bfseries\expandafter{HALAMAN PERNYATAAN KEOTENTIKAN}}\\
         \vspace{1cm}
@@ -474,9 +460,9 @@
 
     \noindent
     Yang bertanda tangan di bawah ini: \\
-    \begin{tabular}{ m{0.5cm} l c l } 
+    \begin{tabular}{ m{0.5cm} l c l }
         & Nama          & : & \@fullname \\
-        & NIM           & : & \@idnum \\
+        & NIM           & : & \@npm \\
         & Program Studi & : & \@program \\
         & Jenjang       & : & S1 \\
     \end{tabular}
@@ -496,13 +482,13 @@
 
     \noindent
     Apabila dikemudian hari terbukti atau dapat dibuktikan bahwa sebagian atau keseluruhan skripsi ini merupakan hasil karya orang lain, maka saya bersedia menerima sanksi atas perbuatan tersebut.
-    
+
     \vspace{1cm}
     \begin{flushright}
         \@city, \@examdate\\
         \vspace{2.5cm}
         {\@fullname}\\
-        NIM. {\@idnum}
+        NIM. {\@npm}
     \end{flushright}
     \pagebreak
 }
@@ -526,7 +512,7 @@
         Disusun dan diajukan oleh\\
         \begin{singlespace}
             \large\bfseries{\@fullname}\\
-            \large\bfseries{\@idnum}\\
+            \large\bfseries{\@npm}\\
             \vspace{1.0cm}
         \end{singlespace}
 
@@ -586,21 +572,21 @@
         \begin{center}
             \begin{tabular}{ p{3cm}  p{.1cm} p{10.5cm}}
                 Nama &:& \@fullname\\
-                NIM &:& \@idnum\\
+                NIM &:& \@npm\\
                 Program Studi &:& \@program\\
                 Judul Skripsi &:& \@titleskripsi\\
             \end{tabular}
         \end{center}
     \end{singlespace}
-    
+
     \noindent
     Telah dipertahankan di depan Tim Penguji dan diterima sebagai bagian persyaratan untuk memperoleh gelar {\@degree} pada Program Studi {\@program} Fakultas {\@faculty} {\@university}.\\
 
     \begin{center}
-        \begin{doublespace} 
+        \begin{doublespace}
             DEWAN PENGUJI\\
             \begin{tabular}{l l l c}
-                & & & Tanda Tangan \\ 
+                & & & Tanda Tangan \\
                 1. & Ketua &: \@firstsupervisor & (........................)\\ \\
                 2. & Sekretaris &: \@secondsupervisor & (........................)\\ \\
                 3. & Anggota &: \@firstexaminer & (........................)\\ \\
@@ -609,7 +595,7 @@
         \end{doublespace}
     \end{center}
     \begin{tabular}{l l}
-        Ditetapkan di &: \@city \\ 
+        Ditetapkan di &: \@city \\
         Tanggal &: \@examdate
     \end{tabular}
     \pagebreak
@@ -638,7 +624,7 @@
         \begin{center}
             \begin{tabular}{ p{3cm}  p{.1cm} p{10.5cm}}
                 Nama &:& \@fullname\\
-                NIM &:& \@idnum\\
+                NIM &:& \@npm\\
                 Program Studi &:& \@program\\
                 Departemen &:& \@dept\\
                 Fakultas &:& \@faculty\\
