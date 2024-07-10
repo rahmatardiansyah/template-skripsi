@@ -1,0 +1,87 @@
+\begin{enumerate}[leftmargin=1cm, itemindent=0.6cm,labelwidth=15pt, labelsep=5pt, listparindent=1cm,align=left]
+
+	\item Operasi \textit{Grayscale}
+
+Operasi \textit{grayscale} adalah citra dari hasil proses normalisasi dari 3 buah layer dari citra berwarna RGB menjadi 1 layer \cite{suryowinoto2017penggunaan}. Pada citra digital grayscale mempunyai warna gradasi mulai dari putih sampai hitam seperti yang ditunjukkan pada rumus (2.1) Rentang tersebut berarti bahwa setiap piksel diwakili oleh 8 bit. Karena citra digital grayscale sebenarnya merupakan hasil rata-rata
+(dinormalisasi) dari color image, maka persamaannya dapat dituliskan sebagai berikut :
+
+\begin{equation}
+f_o(x,y) = \frac{f_i^R(x,y) + f_i^G(x,y) + f_i^B(x,y)}{3}
+\end{equation}
+
+Dimana \(f_i^R(x,y)\) adalah nilai piksel warna merah di titik \((x,y)\), \(f_i^G(x,y) \) adalah nilai piksel warna hijau di titik \((x,y)\), dan \(f_i^B(x,y)\) adalah nilai piksel warna biru di titik \((x,y)\).
+
+	\item Operasi \textit{Invert}
+
+        Citra invert atau dapat disebut sebagai citra negatif merupakan citra yang berkebalikan dengan citra asli, sama seperti film negatif hasil pengambilan citra dengan menggunakan kamera konvensional \cite{mahardika2017implementasi}. Jika terdapat sebuah citra yang mempunyai jumlah \textit{gray level} L dengan range (0 hingga L-1), maka citra negatif diperoleh dari transformasi negatif dengan persamaan:
+
+        \begin{equation}
+            s = L - 1 - r
+        \end{equation}
+dimana:\\
+s = citra hasil transformasi negatif\\
+L = jumlah gray level sebuah citra\\
+r = citra asli
+
+	\item Operasi \textit{Brightness}
+
+        Proses operasi \textit{brightness} dilakukan dengan menambahkan atau mengurangkan nilai setiap piksel dengan suatu konstanta \cite{SPEKTRUM}. Penyesuaian tingkat kecerahan suatu citra dapat dinyatakan
+sebagai:
+
+        \begin{equation}
+            U = U + c
+        \end{equation}
+
+dengan U dan U berturut-turut menyatakan citra setelah dan sebelum brightness adjustment sedangkan c adalah suatu konstanta yang merupakan variabel penyesuaian.
+
+	\item Operasi \textit{Threshold}
+
+        \textit{Thresholding} merupakan salah satu metode segmentasi citra yang memisahkan antara objek dengan background dalam suatu citra berdasarkan pada perbedaan tingkat kecerahannya atau gelap terangnya \cite{Setiawan_Dewanta_Nugroho_Supriyono_2019}. Region citra yang cenderung gelap akan dibuat semakin gelap (hitam sempurna dengan nilai intensitas sebesar 0), sedangkan region citra yang cenderung terang akan dibuat semakin terang.
+
+Operasi ambang batas tunggal adalah yaitu batas pembagian hanya satu, berarti nilai pixel dikelompkan menjadi dua kelompok seperti ditunjukan pada rumus berikut:
+
+        \begin{equation}
+            g(x,y) = 
+            \left\{
+            \begin{array}{ll}
+            0, & \text{jika } f(x,y) < T \\
+            255, & \text{jika } f(x,y) \geq T 
+            \end{array}
+            \right \}
+        \end{equation}
+
+Piksel-piksel yang nilainya intensitasnya dibawah T diubah menjadi hitam (nilai intensitas 0), sedangkan piksel-piksel yang nilai intensitanya diatas T diubah menjadi warna putih( nilai intensitas = 255).
+
+	\item Operasi \textit{Image Blending}
+
+Image blending atau penjumlahan citra dalam pengolahan citra digital adalah teknik menggabungkan dua atau lebih citra untuk menghasilkan citra baru. Ini sering digunakan dalam berbagai aplikasi seperti penggabungan panorama, pengurangan noise, efek khusus, dan banyak lagi. Ada beberapa metode untuk melakukan image blending, salah satu yang paling umum adalah blending linear atau penjumlahan terimbang.
+
+Metode ini menggunakan kombinasi linear dari dua citra, di mana setiap citra diberikan bobot tertentu. Jika memiliki dua citra \(I_1\) dan \(I_2\), dan ingin menggabungkannya dengan bobot \(\alpha\) dan \(\beta\) (dengan \(\alpha\) + \(\beta\) = 1) maka rumusnya adalah:
+
+    \begin{equation}
+        I_{\text{blended}}(x, y) = \alpha \cdot I_1(x, y) + \beta \cdot I_2(x, y)
+    \end{equation}
+
+\(I_1(x, y)\) adalah intensitas piksel pada posisi \((x,y)\) dari citra pertama. \(I_2(x, y)\) adalah intensitas piksel pada posisi \((x,y)\) dari citra kedua. \(\alpha\) dan \(\beta\) adalah bobot yang diberikan untuk masing-masing citra, dengan \(\alpha\) + \(\beta\) = 1.
+
+
+	\item Operasi \textit{Image Substraction}
+
+        Pengurangan citra \textit{(image subtraction)} adalah teknik pengolahan citra yang melibatkan pengurangan nilai intensitas piksel dari satu citra dengan nilai intensitas piksel yang bersesuaian dari citra lain. Teknik ini sering digunakan untuk menyoroti perbedaan antara dua citra, seperti dalam deteksi perubahan atau pengurangan latar belakang.
+
+Jika memiliki dua citra \(I_1\) dan \(I_2\) maka pengurangan citra dapat didefinisikan sebagai:
+
+        \begin{equation}
+            I_{\text{subtracted}}(x, y) = I_1(x, y) - I_2(x, y)
+        \end{equation}
+
+Dimana \(I_{\text{subtracted}}(x, y)\) adalah intensitas piksel pada posisi \((x,y)\) dari citra hasil pengurangan. \(I_1(x,y)\) adalah intensitas piksel pada posisi \((x,y)\) dari citra pertama. \(I_2(x,y)\) adalah intensitas piksel pada posisi \((x,y)\) dari citra kedua.
+
+Untuk mengatasi nilai negatif, bisa menambahkan nilai konstan yang cukup besar untuk menggeser semua nilai ke rentang positif. Misalnya, jika rentang intensitas citra adalah 0 hingga 255, kita bisa menambahkan 255 ke setiap nilai hasil pengurangan. Kemudian, kita perlu melakukan clipping untuk memastikan nilai tidak melebihi batas atas (255) dapat didefinisikan sebagai:
+
+        \begin{equation}
+            I_{\text{normalized}}(x, y) = \max(0, \min(255, I_{\text{subtracted}}(x, y) + 255))
+        \end{equation}
+
+
+\end{enumerate}

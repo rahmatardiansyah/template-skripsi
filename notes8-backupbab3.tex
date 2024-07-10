@@ -48,7 +48,7 @@ Metode pengembangan aplikasi yang akan digunakan dalam penelitian ini adalah met
 
 Metode waterfall memberikan pendekatan yang terstruktur dan terurut dalam pengembangan aplikasi. Setiap tahap harus diselesaikan dengan baik sebelum melanjutkan ke tahap berikutnya. Pendekatan ini memastikan bahwa setiap fase pengembangan dapat diselesaikan dengan baik sebelum melanjutkan ke fase berikutnya, sehingga mengurangi risiko perubahan yang tidak terduga.
 
-\section{Alat dan Bahan Penelitian}
+\section{alat dan behan penelitian}
 \subsection{Spesifikasi Perangkat Keras(\textit{Hardware})}
     Perangkat keras (hardware) yang digunakan dalam pembangunan aplikasi media pebelajaran yang dibuat adalah sebagai berikut:
 \begin{enumerate}
@@ -77,7 +77,7 @@ Metode waterfall memberikan pendekatan yang terstruktur dan terurut dalam pengem
 
           \begin{figure*}[ht]
     	      \includegraphics[width=0.6\textwidth, center]{images/diagram-konteks.png}
-              \caption{\textit{Context Diagram} Media Pembelajaran pengolahan Citra Menggunakan Visualisasi Interaktif Berbasis Web}
+              \caption{\textit{Context Diagram} Media Pembelajaran pengolahan Citra Digital Menggunakan Visualisasi Interaktif Berbasis Web}
           \end{figure*}
 
 \subsection{\textit{Hierarchy Chart}}
@@ -86,21 +86,21 @@ Metode waterfall memberikan pendekatan yang terstruktur dan terurut dalam pengem
 
           \begin{figure*}[ht]
     	      \includegraphics[width=15cm, center]{images/Hierarchy-Chart.png}
-              \caption{\textit{Hierarchy Chart} Media Pembelajaran pengolahan Citra Menggunakan Visualisasi Interaktif Berbasis Web}
+              \caption{\textit{Hierarchy Chart} Media Pembelajaran pengolahan Citra Digital Menggunakan Visualisasi Interaktif Berbasis Web}
           \end{figure*}
 
-\subsection{\textit{Activity Diagram}}
+\subsection{\textit{Data Flow Diagram}}
 
-\textit{Activity diagram} adalah salah satu jenis diagram dalam Unified Modeling Language (UML) yang sangat berguna dalam memodelkan alur kerja atau proses bisnis yang terjadi di dalam sebuah sistem. Diagram ini memberikan representasi visual yang jelas dari berbagai aktivitas serta urutan tindakan yang berlangsung dalam sebuah proses, memperlihatkan bagaimana satu aktivitas mengarah dan bertransisi ke aktivitas lainnya. Hal ini, seperti yang dapat dilihat pada gambar 3.3, membantu dalam memahami serta menganalisis alur kerja secara lebih mendalam dan terstruktur.
+\textit{Data Flow Diagram} (DFD) adalah alat visual yang digunakan untuk menggambarkan aliran informasi dalam suatu sistem. DFD membantu memetakan bagaimana data bergerak dari satu proses ke proses lain, serta menunjukkan sumber dan tujuan data tersebut. Diagram ini terdiri dari beberapa elemen utama, seperti proses, aliran data, entitas eksternal, dan penyimpanan data. Dengan DFD, penulis dapat lebih mudah memahami sistem yang kompleks, mengidentifikasi kebutuhan, dan merancang solusi yang efektif. Penggunaan DFD juga memfasilitasi komunikasi yang lebih baik antara tim teknis dan non-teknis. 
 
-\pagebreak
-       
-          \begin{figure*}[ht]
-    	      \includegraphics[width=8cm, center]{images/Activity-Diagram.png}
-              \caption{\textit{Activity Diagram} Media Pembelajaran pengolahan Citra Menggunakan Visualisasi Interaktif Berbasis Web}
-          \end{figure*}
+DFD berfungsi sebagai alat analisis dan perancangan yang penting dalam pengembangan sistem informasi. Terdapat beberapa level DFD, mulai dari konteks diagram yang memberikan gambaran umum, hingga diagram yang lebih rinci yang memecah proses menjadi subproses. Dengan memvisualisasikan interaksi dan aliran data, DFD membantu dalam mengidentifikasi potensi masalah, meningkatkan efisiensi proses, dan memastikan bahwa semua kebutuhan bisnis telah dipertimbangkan. DFD yang akan dibuat dapat dilihat seperti gambar.
 
-\section{Desain}
+      \begin{figure*}[ht]
+          \includegraphics[width=14cm, center]{images/dfd.png}
+          \caption{\textit{Data Flow Diagram}}
+      \end{figure*}
+
+\section{Design}
 \subsection{Program Flowchart}
 
 Berikut adalah flowchart yang menunjukkan sistem media pembelajaran pengolahan citra digital berbasis web yang memperlihatkan alur atau langkah-langkah yang terjadi dalam sistem tersebut. Flowchart tersebut merupakan gambaran visual tentang bagaimana sistem media pembelaran tersebut beroperasi.
@@ -115,11 +115,11 @@ Berikut adalah flowchart yang menunjukkan sistem media pembelajaran pengolahan c
               \caption{\textit{Flowchart grayscale}}
           \end{figure*}
 
+          \pagebreak
+
     \item Program Flowchart Operasi \textit{Invert}
 
         Flowchart Operasi \textit{Invert} atau negatif adalah sebuah gambaran langkah demi langkah saat pengguna melakukan memulai proses mengubah tabel citra grayscale menjadi citra negatif. Pada menu \textit{invert} pengguna diminta memilih salah satu dari gambar kemudian pengguna bisa mengubah nilai dari citra warna tersebut. Jika pengguna tidak mengubah nilai dari citra warna pengguna bisa menekan tombol \textit{start, pause, stop} dan \textit{repeat}.
-
-\pagebreak
 
       \begin{figure*}[ht]
           \includegraphics[width=0.5\textwidth, center]{images/flowchart-grayscale.png}
@@ -130,8 +130,6 @@ Berikut adalah flowchart yang menunjukkan sistem media pembelajaran pengolahan c
 
     Flowchart Operasi \textit{Brightness} adalah sebuah gambaran langkah demi langkah saat pengguna melakukan memulai proses mengubah tabel citra grayscale menjadi citra dengan nilai baru yaitu peningkatan kecerahan. Pada menu \textit{brightness} pengguna diminta memilih salah satu dari gambar kemudian pengguna bisa mengubah nilai dari citra grayscale tersebut. Jika pengguna tidak mengubah nilai dari citra warna pengguna bisa menekan tombol \textit{start, pause, stop} dan \textit{repeat}. Pengguna juga bisa mengatur berapa besar konstanta yang akan ditingkatkan menggunakan \textit{slider ranger input}.
 
-    \pagebreak
-
       \begin{figure*}[ht]
           \includegraphics[width=0.5\textwidth, center]{images/flowchart-brightness.png}
           \caption{\textit{Flowchart Brightness}}
@@ -141,8 +139,6 @@ Berikut adalah flowchart yang menunjukkan sistem media pembelajaran pengolahan c
 
     Flowchart operasi \textit{threshold} adalah sebuah gambaran langkah demi langkah saat pengguna melakukan memulai proses mengubah tabel citra grayscale menjadi citra dengan antara 0 atau 255. Pada menu \textit{threshold} pengguna diminta memilih salah satu dari gambar kemudian pengguna bisa mengubah nilai dari citra grayscale tersebut. Jika pengguna tidak mengubah nilai dari citra warna pengguna bisa menekan tombol \textit{start, pause, stop} dan \textit{repeat}. Pengguna juga bisa mengatur berapa besar nilai \(T\) yang akan ditingkatkan menggunakan \textit{input number}.
 
-    \pagebreak
-
       \begin{figure*}[ht]
           \includegraphics[width=0.5\textwidth, center]{images/flowchart-threshold.png}
           \caption{\textit{Flowchart Threshold}}
@@ -151,8 +147,6 @@ Berikut adalah flowchart yang menunjukkan sistem media pembelajaran pengolahan c
     \item Program Flowchart Operasi \textit{Image Blending}
 
         Flowchart Operasi \textit{Image Blending} adalah sebuah gambaran langkah demi langkah saat pengguna melakukan memulai proses penjumlahan antara 2 citra grayscale. Pada menu \textit{image blending} pengguna diminta memilih 2 gambar kemudian pengguna bisa mengubah nilai dari citra grayscale tersebut. Jika pengguna tidak mengubah nilai dari citra warna pengguna bisa menekan tombol \textit{start, pause, stop} dan \textit{repeat}. Pengguna juga bisa mengatur berapa besar nilai \(\alpha\) antara 0.1 sampai dengan 0.9 menggunakan \textit{input number}.
-
-        \pagebreak
 
       \begin{figure*}[ht]
           \includegraphics[width=0.5\textwidth, center]{images/flowchart-blending.png}
@@ -227,6 +221,7 @@ Pengguna dapat memilih salah satu dari tiga gambar \textit{grayscale} untuk dipr
 
           Pengguna dapat memilih dua gambar \textit{grayscale} untuk diproses. Setelah memilih gambar, tabel \textit{grayscale} muncul dengan nilai awal, dan pengguna dapat mengubah nilai \textit{grayscale} melalui dua \textit{input text area}. Pengguna juga dapat menginput nilai \textit{threshold} dari angka 1 - 255.
 
+\pagebreak
 
           \begin{figure*}[ht]
     	      \includegraphics[width=0.6\textwidth, center]{images/input-blending.png}

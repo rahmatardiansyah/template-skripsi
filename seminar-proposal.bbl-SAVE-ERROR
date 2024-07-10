@@ -63,91 +63,31 @@
       \field{title}{Media Pembelajaran}
       \field{year}{2015}
     \endentry
-    \entry{hutahaean2019teknologi}{article}{}
-      \name{author}{3}{}{%
-        {{hash=0cdd276d3de28159dc89cd60a013cbb5}{%
-           family={Hutahaean},
-           familyi={H\bibinitperiod},
-           given={Harvei\bibnamedelima Desmon},
-           giveni={H\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
-        {{hash=a08ec99889b5f5da1e0121c294e03b71}{%
-           family={Waluyo},
-           familyi={W\bibinitperiod},
-           given={Bakti\bibnamedelima Dwi},
-           giveni={B\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
-        {{hash=ccc8d6fff2dd19cecce16dbecf2437e8}{%
-           family={Rais},
-           familyi={R\bibinitperiod},
-           given={Muhammad\bibnamedelima Amin},
-           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+    \entry{khotijah2016perancangan}{article}{}
+      \name{author}{1}{}{%
+        {{hash=5f5b2ef79d6a59700f9d879c7ee98524}{%
+           family={Khotijah},
+           familyi={K\bibinitperiod},
+           given={Siti},
+           giveni={S\bibinitperiod}}}%
       }
-      \strng{namehash}{1084f2a051c447ab5d3ceb23c232e457}
-      \strng{fullhash}{1084f2a051c447ab5d3ceb23c232e457}
-      \strng{bibnamehash}{1084f2a051c447ab5d3ceb23c232e457}
-      \strng{authorbibnamehash}{1084f2a051c447ab5d3ceb23c232e457}
-      \strng{authornamehash}{1084f2a051c447ab5d3ceb23c232e457}
-      \strng{authorfullhash}{1084f2a051c447ab5d3ceb23c232e457}
-      \field{sortinit}{H}
-      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \strng{namehash}{5f5b2ef79d6a59700f9d879c7ee98524}
+      \strng{fullhash}{5f5b2ef79d6a59700f9d879c7ee98524}
+      \strng{bibnamehash}{5f5b2ef79d6a59700f9d879c7ee98524}
+      \strng{authorbibnamehash}{5f5b2ef79d6a59700f9d879c7ee98524}
+      \strng{authornamehash}{5f5b2ef79d6a59700f9d879c7ee98524}
+      \strng{authorfullhash}{5f5b2ef79d6a59700f9d879c7ee98524}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Jurnal Teknik Informatika UNIKA Santo Thomas}
-      \field{number}{2}
-      \field{title}{Teknologi Identifikasi Objek Berbasis Drone Menggunakan Algoritma Sift Citra Digital}
-      \field{volume}{4}
-      \field{year}{2019}
-      \field{pages}{202\bibrangedash 207}
-      \range{pages}{6}
-    \endentry
-    \entry{Jumadi_Yupianti_Sartika_2021}{article}{}
-      \name{author}{3}{}{%
-        {{hash=521e103e311567521abe33a35d8688d1}{%
-           family={Jumadi},
-           familyi={J\bibinitperiod},
-           given={Juju},
-           giveni={J\bibinitperiod}}}%
-        {{hash=fdbd6e47e240aac987f89fa983ad867d}{%
-           family={Yupianti},
-           familyi={Y\bibinitperiod},
-           given={Yupianti},
-           giveni={Y\bibinitperiod}}}%
-        {{hash=6514485c0b6f033369f4996d863f3781}{%
-           family={Sartika},
-           familyi={S\bibinitperiod},
-           given={Devi},
-           giveni={D\bibinitperiod}}}%
-      }
-      \strng{namehash}{ac19f1cf660496c019f84feb0f7d9f89}
-      \strng{fullhash}{ac19f1cf660496c019f84feb0f7d9f89}
-      \strng{bibnamehash}{ac19f1cf660496c019f84feb0f7d9f89}
-      \strng{authorbibnamehash}{ac19f1cf660496c019f84feb0f7d9f89}
-      \strng{authornamehash}{ac19f1cf660496c019f84feb0f7d9f89}
-      \strng{authorfullhash}{ac19f1cf660496c019f84feb0f7d9f89}
-      \field{sortinit}{J}
-      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{JST (Jurnal Sains dan Teknologi)}
-      \field{month}{11}
-      \field{number}{2}
-      \field{title}{PENGOLAHAN CITRA DIGITAL UNTUK IDENTIFIKASI OBJEK MENGGUNAKAN METODE HIERARCHICAL AGGLOMERATIVE CLUSTERING}
-      \field{volume}{10}
-      \field{year}{2021}
-      \field{pages}{148\bibrangedash 156}
-      \range{pages}{9}
-      \verb{doi}
-      \verb 10.23887/jstundiksha.v10i2.33636
-      \endverb
-      \verb{urlraw}
-      \verb https://ejournal.undiksha.ac.id/index.php/JST/article/view/33636
-      \endverb
-      \verb{url}
-      \verb https://ejournal.undiksha.ac.id/index.php/JST/article/view/33636
-      \endverb
+      \field{journaltitle}{STRING (Satuan Tulisan Riset Dan Inovasi Teknologi)}
+      \field{number}{1}
+      \field{title}{Perancangan Database E-Learning Manajemen System untuk Pembelajaran pada Sekolah Menengah Pertama}
+      \field{volume}{1}
+      \field{year}{2016}
     \endentry
     \entry{mahardika2017implementasi}{article}{}
       \name{author}{3}{}{%
@@ -186,6 +126,44 @@
       \field{year}{2017}
       \field{pages}{63\bibrangedash 72}
       \range{pages}{10}
+    \endentry
+    \entry{maulana2021penerapan}{article}{}
+      \name{author}{3}{}{%
+        {{hash=4328052d8648552fed07c12f4e812510}{%
+           family={Maulana},
+           familyi={M\bibinitperiod},
+           given={Agung},
+           giveni={A\bibinitperiod}}}%
+        {{hash=8f5b6256188b9989514afb2dcadde4e1}{%
+           family={Kusdinar},
+           familyi={K\bibinitperiod},
+           given={Asep\bibnamedelima Budiman},
+           giveni={A\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=bea4155b5eca9ff703c3f4a0f769389c}{%
+           family={Sunarto},
+           familyi={S\bibinitperiod},
+           given={Asril\bibnamedelima Adi},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{f3a65ccb4b152b03ca86ce612cb9f9d8}
+      \strng{fullhash}{f3a65ccb4b152b03ca86ce612cb9f9d8}
+      \strng{bibnamehash}{f3a65ccb4b152b03ca86ce612cb9f9d8}
+      \strng{authorbibnamehash}{f3a65ccb4b152b03ca86ce612cb9f9d8}
+      \strng{authornamehash}{f3a65ccb4b152b03ca86ce612cb9f9d8}
+      \strng{authorfullhash}{f3a65ccb4b152b03ca86ce612cb9f9d8}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Jutisi: Jurnal Ilmiah Teknik Informatika dan Sistem Informasi}
+      \field{number}{3}
+      \field{title}{Penerapan Multimedia Development Life Cycle dalam Pengembangan Media Visualisasi Pembelajaran Interaktif}
+      \field{volume}{9}
+      \field{year}{2021}
+      \field{pages}{25\bibrangedash 32}
+      \range{pages}{8}
     \endentry
     \entry{munantri2020aplikasi}{article}{}
       \name{author}{3}{}{%
@@ -252,39 +230,6 @@
       \field{year}{2018}
       \field{pages}{171\bibrangedash 187}
       \range{pages}{17}
-    \endentry
-    \entry{pratama2021rancang}{article}{}
-      \name{author}{2}{}{%
-        {{hash=f20e28c24030ff237f6745504d569dab}{%
-           family={Pratama},
-           familyi={P\bibinitperiod},
-           given={Megi},
-           giveni={M\bibinitperiod}}}%
-        {{hash=456e0f42cf184df6acf616e3e6e57511}{%
-           family={Delianti},
-           familyi={D\bibinitperiod},
-           given={Vera\bibnamedelima Irma},
-           giveni={V\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
-      }
-      \strng{namehash}{ae2d41de8daabe659f1ddcee8d97c432}
-      \strng{fullhash}{ae2d41de8daabe659f1ddcee8d97c432}
-      \strng{bibnamehash}{ae2d41de8daabe659f1ddcee8d97c432}
-      \strng{authorbibnamehash}{ae2d41de8daabe659f1ddcee8d97c432}
-      \strng{authornamehash}{ae2d41de8daabe659f1ddcee8d97c432}
-      \strng{authorfullhash}{ae2d41de8daabe659f1ddcee8d97c432}
-      \field{sortinit}{P}
-      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{INCARE, International Journal of Educational Resources}
-      \field{number}{2}
-      \field{title}{RANCANG BANGUN APLIKASI PRESENSI DENGAN GLOBAL POTITIONING SYSTEM (GPS) BERBASIS ANDROID (Studi Kasus: PT. Perkebunan Nusantara VI Unit Usaha Kayu Aro)}
-      \field{volume}{2}
-      \field{year}{2021}
-      \field{pages}{141\bibrangedash 154}
-      \range{pages}{14}
     \endentry
     \entry{Setiawan_Dewanta_Nugroho_Supriyono_2019}{article}{}
       \name{author}{4}{}{%

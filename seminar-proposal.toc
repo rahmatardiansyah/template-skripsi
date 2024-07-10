@@ -6,23 +6,29 @@
 \contentsline {section}{\numberline {1.2}Identifikasi Masalah}{2}{section.1.2}%
 \contentsline {section}{\numberline {1.3}Rumusan Masalah}{2}{section.1.3}%
 \contentsline {section}{\numberline {1.4}Batasan Masalah}{3}{section.1.4}%
-\contentsline {section}{\numberline {1.5}Tujuan Penelitian}{3}{section.1.5}%
+\contentsline {section}{\numberline {1.5}Tujuan Penelitian}{4}{section.1.5}%
 \contentsline {section}{\numberline {1.6}Manfaat Penelitian}{4}{section.1.6}%
 \contentsline {chapter}{\numberline {II}LANDASAN TEORI}{5}{chapter.2}%
 \contentsline {section}{\numberline {2.1}Tinjauan Pustaka}{5}{section.2.1}%
 \contentsline {section}{\numberline {2.2}Dasar Teori}{6}{section.2.2}%
 \contentsline {subsection}{\numberline {2.2.1}Pengolahan Citra Digital}{6}{subsection.2.2.1}%
-\contentsline {subsection}{\numberline {2.2.2}Segmentasi}{7}{subsection.2.2.2}%
-\contentsline {subsection}{\numberline {2.2.3}Media Pembelajaran}{12}{subsection.2.2.3}%
-\contentsline {subsection}{\numberline {2.2.4}Visualisasi}{12}{subsection.2.2.4}%
-\contentsline {subsection}{\numberline {2.2.5}Web}{13}{subsection.2.2.5}%
-\contentsline {subsection}{\numberline {2.2.6}Alat Bantu Pengembangan di Perancangan Sistem}{14}{subsection.2.2.6}%
-\contentsline {subsection}{\numberline {2.2.7}\textit {Software} Pendukung}{15}{subsection.2.2.7}%
-\contentsline {chapter}{\numberline {III}METODOLOGI PENENILITIAN}{18}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Metode Penelitian}{18}{section.3.1}%
-\contentsline {subsection}{\numberline {3.1.1}Metode Pengumpulan Data}{18}{subsection.3.1.1}%
-\contentsline {subsection}{\numberline {3.1.2}Metode Pengembangan Aplikasi}{19}{subsection.3.1.2}%
-\contentsline {section}{\numberline {3.2}alat dan behan penelitian}{20}{section.3.2}%
-\contentsline {subsection}{\numberline {3.2.1}Spesifikasi Perangkat Keras(\textit {Hardware})}{20}{subsection.3.2.1}%
-\contentsline {subsection}{\numberline {3.2.2}Spesifikasi Perangkat Lunak(\textit {Software})}{21}{subsection.3.2.2}%
-\contentsline {chapter}{DAFTAR PUSTAKA}{21}{Item.49}%
+\contentsline {subsection}{\numberline {2.2.2}Media Pembelajaran}{10}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.3}Visualisasi}{11}{subsection.2.2.3}%
+\contentsline {subsection}{\numberline {2.2.4}Web}{11}{subsection.2.2.4}%
+\contentsline {subsection}{\numberline {2.2.5}Alat Bantu Pengembangan di Perancangan Sistem}{12}{subsection.2.2.5}%
+\contentsline {subsection}{\numberline {2.2.6}\textit {Software} Pendukung}{13}{subsection.2.2.6}%
+\contentsline {chapter}{\numberline {III}METODOLOGI PENENILITIAN}{16}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Metode Penelitian}{16}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Metode Pengumpulan Data}{16}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}Metode Pengembangan Aplikasi}{17}{subsection.3.1.2}%
+\contentsline {section}{\numberline {3.2}Alat dan Bahan Penelitian}{18}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Spesifikasi Perangkat Keras(\textit {Hardware})}{18}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Spesifikasi Perangkat Lunak(\textit {Software})}{19}{subsection.3.2.2}%
+\contentsline {section}{\numberline {3.3}Analisis Kebutuhan Sistem}{19}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}\textit {Context Diagram}}{19}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}\textit {Hierarchy Chart}}{20}{subsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.3.3}\textit {Activity Diagram}}{21}{subsection.3.3.3}%
+\contentsline {section}{\numberline {3.4}Desain}{22}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}Program Flowchart}{22}{subsection.3.4.1}%
+\contentsline {subsection}{\numberline {3.4.2}Desain Input}{28}{subsection.3.4.2}%
+\contentsline {chapter}{DAFTAR PUSTAKA}{32}{figure.caption.16}%
