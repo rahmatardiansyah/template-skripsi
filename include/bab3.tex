@@ -33,54 +33,21 @@ Metode pengembangan aplikasi yang akan digunakan dalam penelitian ini adalah met
 
     Setelah kebutuhan dianalisis, tahap perancangan dilakukan untuk merancang struktur dan fungsionalitas media pembelajaran. Pada tahap ini, dilakukan perancangan antarmuka pengguna, aliran informasi, dan navigasi aplikasi. Perancangan ini juga melibatkan pemilihan algoritma pengolahan citra yang akan digunakan dalam media pembelajaran.
 
-    \item Implementasi
-    Tahap implementasi melibatkan pembuatan kode program berdasarkan perancangan yang telah disusun sebelumnya. Pada tahap ini, dilakukan pengembangan aplikasi berbasis web yang mendukung pengolahan citra digital dan visualisasi interaktif. Algoritma pengolahan citra yang dipilih akan diimplementasikan dalam kode program yang sesuai.
+\begin{enumerate}[leftmargin=1cm, itemindent=0.6cm,labelwidth=15pt, labelsep=5pt, listparindent=1cm,align=left]
 
-    \item Pengujian
-
-    Setelah tahap implementasi, tahap pengujian dilakukan untuk memastikan bahwa aplikasi berfungsi dengan baik dan memenuhi kebutuhan pengguna. Pengujian dilakukan dengan menggunakan berbagai contoh kasus dan skenario untuk memverifikasi kinerja dan keakuratan media pembelajaran. Jika terdapat kesalahan atau kekurangan, perbaikan akan dilakukan pada tahap ini.
-
-\item Pemeliharaan
-
-    Setelah aplikasi diimplementasikan dan diuji, langkah selanjutnya adalah pemeliharaan. Tahap pemeliharaan melibatkan pemantauan kinerja aplikasi secara berkala dan memperbaiki masalah yang muncul setelah aplikasi berada dalam lingkungan produksi. Pemeliharaan juga mencakup penambahan fitur baru atau perubahan fungsionalitas sesuai dengan kebutuhan yang berkembang dari pengguna.
-
-\end{enumerate}
-
-Metode waterfall memberikan pendekatan yang terstruktur dan terurut dalam pengembangan aplikasi. Setiap tahap harus diselesaikan dengan baik sebelum melanjutkan ke tahap berikutnya. Pendekatan ini memastikan bahwa setiap fase pengembangan dapat diselesaikan dengan baik sebelum melanjutkan ke fase berikutnya, sehingga mengurangi risiko perubahan yang tidak terduga.
-
-\section{Alat dan Bahan Penelitian}
-\subsection{Spesifikasi Perangkat Keras(\textit{Hardware})}
-    Perangkat keras (hardware) yang digunakan dalam pembangunan aplikasi media pebelajaran yang dibuat adalah sebagai berikut:
-\begin{enumerate}
-    \item \textit{Procesor AMD Ryzen 7 47000U with Raden Graphics 2.00 GHz}
-    \item SSD 512 GB
-    \item RAM 8 GB
-\end{enumerate}
-
-\subsection{Spesifikasi Perangkat Lunak(\textit{Software})}
-    Perangkat Lunak (\textit{software}) yang digunakan dalam pembangunan aplikasi lowongan kerja yang dibangun adalah sebagai berikut:
-
-\begin{enumerate}
-    \item Sistem Operasi : Arch Linux
-    \item Bahasa Pemrograman : Javascript
-    \item Framework : Bootstrap
-    \item Aplikasi desain logika program : draw.io
-    \item Code Editor : Visual Studio Code
-\end{enumerate}
-
-\section{Analisis Kebutuhan Sistem}
-\subsection{\textit{Context Diagram}}
+\item\textit{Context Diagram}
 
 \textit{Context diagram} adalah sebuah diagram yang digunakan untuk menggambarkan sistem secara keseluruhan serta hubungannya dengan entitas eksternal yang berinteraksi dengan sistem tersebut. Diagram ini memberikan pandangan menyeluruh mengenai sistem tanpa menyelidiki detail internalnya. Pada context diagram, sistem digambarkan dengan sebuah lingkaran atau persegi panjang di tengah diagram, sementara entitas eksternal digambarkan dengan bentuk yang berbeda di sekitarnya. Hubungan antara sistem dan entitas eksternal ditunjukkan dengan garis yang menghubungkan mereka, menggambarkan aliran data atau informasi.
-
-\textit{Context diagram} sangat berguna pada tahap awal perancangan sistem karena membantu para pemangku kepentingan memahami batasan dan lingkup sistem. Diagram ini juga memudahkan identifikasi entitas eksternal yang berinteraksi dengan sistem, seperti pengguna, perangkat lunak lain, atau sistem fisik. Dengan demikian, context diagram membantu menentukan kebutuhan fungsional dan non-fungsional sistem, serta menyekjdiakan dasar untuk perancangan lebih detail. Adapun Context diagram pada aplikasi media pembelajaran pengolahan citra digital berbasis web bisa dilihat pada gambar 3.1.
 
           \begin{figure*}[ht]
     	      \includegraphics[width=0.6\textwidth, center]{images/diagram-konteks.png}
               \caption{\textit{Context Diagram} Media Pembelajaran pengolahan Citra Menggunakan Visualisasi Interaktif Berbasis Web}
           \end{figure*}
 
-\subsection{\textit{Hierarchy Chart}}
+\textit{Context diagram} sangat berguna pada tahap awal perancangan sistem karena membantu para pemangku kepentingan memahami batasan dan lingkup sistem. Diagram ini juga memudahkan identifikasi entitas eksternal yang berinteraksi dengan sistem, seperti pengguna, perangkat lunak lain, atau sistem fisik. Dengan demikian, context diagram membantu menentukan kebutuhan fungsional dan non-fungsional sistem, serta menyekjdiakan dasar untuk perancangan lebih detail. Adapun Context diagram pada aplikasi media pembelajaran pengolahan citra digital berbasis web bisa dilihat pada gambar 3.1.
+
+
+\item\textit{Hierarchy Chart}
 
 \textit{Hierarchy chart} adalah sebuah alat visual yang digunakan untuk menggambarkan struktur hirarkis suatu sistem atau proses, menampilkan hubungan antara komponen atau modul dalam bentuk hierarki. Diagram ini sering digunakan dalam pengembangan perangkat lunak, perencanaan organisasi, dan manajemen proyek untuk memberikan pemahaman yang jelas mengenai bagaimana berbagai elemen berinteraksi dan berhubungan satu sama lain. \textit{Hierarchy chart} yang akan dibangun bisa dilihat pada gambar 3.2.
 
@@ -89,23 +56,22 @@ Metode waterfall memberikan pendekatan yang terstruktur dan terurut dalam pengem
               \caption{\textit{Hierarchy Chart} Media Pembelajaran pengolahan Citra Menggunakan Visualisasi Interaktif Berbasis Web}
           \end{figure*}
 
-\subsection{\textit{Activity Diagram}}
+\item\textit{Activity Diagram}
 
 \textit{Activity diagram} adalah salah satu jenis diagram dalam Unified Modeling Language (UML) yang sangat berguna dalam memodelkan alur kerja atau proses bisnis yang terjadi di dalam sebuah sistem. Diagram ini memberikan representasi visual yang jelas dari berbagai aktivitas serta urutan tindakan yang berlangsung dalam sebuah proses, memperlihatkan bagaimana satu aktivitas mengarah dan bertransisi ke aktivitas lainnya. Hal ini, seperti yang dapat dilihat pada gambar 3.3, membantu dalam memahami serta menganalisis alur kerja secara lebih mendalam dan terstruktur.
 
-\pagebreak
        
           \begin{figure*}[ht]
     	      \includegraphics[width=8cm, center]{images/Activity-Diagram.png}
               \caption{\textit{Activity Diagram} Media Pembelajaran pengolahan Citra Menggunakan Visualisasi Interaktif Berbasis Web}
           \end{figure*}
 
-\section{Desain}
-\subsection{Program Flowchart}
+      \item Program \textit{Flowchart}
 
 Berikut adalah flowchart yang menunjukkan sistem media pembelajaran pengolahan citra digital berbasis web yang memperlihatkan alur atau langkah-langkah yang terjadi dalam sistem tersebut. Flowchart tersebut merupakan gambaran visual tentang bagaimana sistem media pembelaran tersebut beroperasi.
 
 \begin{enumerate}[leftmargin=1cm, itemindent=0.6cm,labelwidth=15pt, labelsep=5pt, listparindent=1cm,align=left]
+
     \item Program Flowchart Operasi Grayscale
 
         Flowchart Operasi Grayscale adalah sebuah gambaran langkah demi langkah saat pengguna melakukan memulai proses mengubah tabel citra warna menjadi citra grayscale. Pada menu grayscale pengguna diminta memilih salah satu dari gambar kemudian pengguna bisa mengubah nilai dari citra warna tersebut. Jika pengguna tidak mengubah nilai dari citra warna pengguna bisa menekan tombol \textit{start, pause, stop} dan \textit{repeat}.
@@ -119,7 +85,6 @@ Berikut adalah flowchart yang menunjukkan sistem media pembelajaran pengolahan c
 
         Flowchart Operasi \textit{Invert} atau negatif adalah sebuah gambaran langkah demi langkah saat pengguna melakukan memulai proses mengubah tabel citra grayscale menjadi citra negatif. Pada menu \textit{invert} pengguna diminta memilih salah satu dari gambar kemudian pengguna bisa mengubah nilai dari citra warna tersebut. Jika pengguna tidak mengubah nilai dari citra warna pengguna bisa menekan tombol \textit{start, pause, stop} dan \textit{repeat}.
 
-\pagebreak
 
       \begin{figure*}[ht]
           \includegraphics[width=0.5\textwidth, center]{images/flowchart-grayscale.png}
@@ -152,7 +117,7 @@ Berikut adalah flowchart yang menunjukkan sistem media pembelajaran pengolahan c
 
         Flowchart Operasi \textit{Image Blending} adalah sebuah gambaran langkah demi langkah saat pengguna melakukan memulai proses penjumlahan antara 2 citra grayscale. Pada menu \textit{image blending} pengguna diminta memilih 2 gambar kemudian pengguna bisa mengubah nilai dari citra grayscale tersebut. Jika pengguna tidak mengubah nilai dari citra warna pengguna bisa menekan tombol \textit{start, pause, stop} dan \textit{repeat}. Pengguna juga bisa mengatur berapa besar nilai \(\alpha\) antara 0.1 sampai dengan 0.9 menggunakan \textit{input number}.
 
-        \pagebreak
+    \pagebreak
 
       \begin{figure*}[ht]
           \includegraphics[width=0.5\textwidth, center]{images/flowchart-blending.png}
@@ -169,7 +134,7 @@ Berikut adalah flowchart yang menunjukkan sistem media pembelajaran pengolahan c
       \end{figure*}
 \end{enumerate}
 
-\subsection{Desain Input}
+\item Desain Input
 
 Desain input mengacu pada pengembangan antarmuka sistem yang melibatkan form input untuk pemrosesan operasi dan informasi yang inputkan akan mempengaruhi pada proses operasi itu sendiri.
 
@@ -239,8 +204,47 @@ Pengguna dapat memilih salah satu dari tiga gambar \textit{grayscale} untuk dipr
 
           Pengguna dapat memilih dua gambar \textit{grayscale} untuk diproses. Setelah memilih gambar, tabel \textit{grayscale} muncul dengan nilai awal, dan pengguna dapat mengubah nilai \textit{grayscale} melalui dua \textit{input text area}.
 
+    \pagebreak
+
           \begin{figure*}[ht]
     	      \includegraphics[width=0.6\textwidth, center]{images/input-substraction.png}
               \caption{Desain Input Halaman \textit{Image Substraction}}
           \end{figure*}
+\end{enumerate}
+\end{enumerate}
+
+    \item Implementasi
+
+    Tahap implementasi melibatkan pembuatan kode program berdasarkan perancangan yang telah disusun sebelumnya. Pada tahap ini, dilakukan pengembangan aplikasi berbasis web yang mendukung pengolahan citra digital dan visualisasi interaktif. Web yang dibuat menggunakan HTML, CSS, dan JavaScript, dengan React dan Tailwind CSS sebagai library tambahannya. Algoritma pengolahan citra yang dipilih akan diimplementasikan dalam kode program yang sesuai.
+
+    \item Pengujian
+
+    Setelah tahap implementasi, tahap pengujian dilakukan untuk memastikan bahwa aplikasi berfungsi dengan baik dan memenuhi kebutuhan pengguna. Pengujian dilakukan dengan menggunakan berbagai contoh kasus dan skenario untuk memverifikasi kinerja dan keakuratan media pembelajaran. Jika terdapat kesalahan atau kekurangan, perbaikan akan dilakukan pada tahap ini.
+
+\item Pemeliharaan
+
+    Setelah aplikasi diimplementasikan dan diuji, langkah selanjutnya adalah pemeliharaan. Tahap pemeliharaan melibatkan pemantauan kinerja aplikasi secara berkala dan memperbaiki masalah yang muncul setelah aplikasi berada dalam lingkungan produksi. Pemeliharaan juga mencakup penambahan fitur baru atau perubahan fungsionalitas sesuai dengan kebutuhan yang berkembang dari pengguna.
+
+\end{enumerate}
+
+Metode waterfall memberikan pendekatan yang terstruktur dan terurut dalam pengembangan aplikasi. Setiap tahap harus diselesaikan dengan baik sebelum melanjutkan ke tahap berikutnya. Pendekatan ini memastikan bahwa setiap fase pengembangan dapat diselesaikan dengan baik sebelum melanjutkan ke fase berikutnya, sehingga mengurangi risiko perubahan yang tidak terduga.
+
+\section{Alat dan Bahan Penelitian}
+\subsection{Spesifikasi Perangkat Keras(\textit{Hardware})}
+    Perangkat keras (hardware) yang digunakan dalam pembangunan aplikasi media pebelajaran yang dibuat adalah sebagai berikut:
+\begin{enumerate}
+    \item \textit{Procesor AMD Ryzen 7 47000U with Raden Graphics 2.00 GHz}
+    \item SSD 512 GB
+    \item RAM 8 GB
+\end{enumerate}
+
+\subsection{Spesifikasi Perangkat Lunak(\textit{Software})}
+    Perangkat Lunak (\textit{software}) yang digunakan dalam pembangunan aplikasi lowongan kerja yang dibangun adalah sebagai berikut:
+
+\begin{enumerate}
+    \item Sistem Operasi : Arch Linux
+    \item Bahasa Pemrograman : Javascript
+    \item Framework : Bootstrap
+    \item Aplikasi desain logika program : draw.io
+    \item Code Editor : Visual Studio Code
 \end{enumerate}

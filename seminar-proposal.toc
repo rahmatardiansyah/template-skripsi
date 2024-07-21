@@ -21,14 +21,7 @@
 \contentsline {section}{\numberline {3.1}Metode Penelitian}{16}{section.3.1}%
 \contentsline {subsection}{\numberline {3.1.1}Metode Pengumpulan Data}{16}{subsection.3.1.1}%
 \contentsline {subsection}{\numberline {3.1.2}Metode Pengembangan Aplikasi}{17}{subsection.3.1.2}%
-\contentsline {section}{\numberline {3.2}Alat dan Bahan Penelitian}{18}{section.3.2}%
-\contentsline {subsection}{\numberline {3.2.1}Spesifikasi Perangkat Keras(\textit {Hardware})}{18}{subsection.3.2.1}%
-\contentsline {subsection}{\numberline {3.2.2}Spesifikasi Perangkat Lunak(\textit {Software})}{19}{subsection.3.2.2}%
-\contentsline {section}{\numberline {3.3}Analisis Kebutuhan Sistem}{19}{section.3.3}%
-\contentsline {subsection}{\numberline {3.3.1}\textit {Context Diagram}}{19}{subsection.3.3.1}%
-\contentsline {subsection}{\numberline {3.3.2}\textit {Hierarchy Chart}}{20}{subsection.3.3.2}%
-\contentsline {subsection}{\numberline {3.3.3}\textit {Activity Diagram}}{21}{subsection.3.3.3}%
-\contentsline {section}{\numberline {3.4}Desain}{22}{section.3.4}%
-\contentsline {subsection}{\numberline {3.4.1}Program Flowchart}{22}{subsection.3.4.1}%
-\contentsline {subsection}{\numberline {3.4.2}Desain Input}{28}{subsection.3.4.2}%
-\contentsline {chapter}{DAFTAR PUSTAKA}{32}{figure.caption.16}%
+\contentsline {section}{\numberline {3.2}Alat dan Bahan Penelitian}{32}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Spesifikasi Perangkat Keras(\textit {Hardware})}{32}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Spesifikasi Perangkat Lunak(\textit {Software})}{32}{subsection.3.2.2}%
+\contentsline {chapter}{DAFTAR PUSTAKA}{33}{Item.61}%

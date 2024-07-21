@@ -492,11 +492,6 @@ INPUT ./images/diagram-konteks.png
 INPUT /nix/store/nn50xms44xc7fhb1cm6vicw77hpppxzl-texlive-2023-env-texmfdist/fonts/tfm/public/newtx/ntx-Regular-tlf-ot1.tfm
 INPUT /nix/store/nn50xms44xc7fhb1cm6vicw77hpppxzl-texlive-2023-env-texmfdist/fonts/tfm/public/newtx/ntx-Bold-tlf-ot1.tfm
 INPUT /nix/store/nn50xms44xc7fhb1cm6vicw77hpppxzl-texlive-2023-env-texmfdist/fonts/tfm/public/newtx/ntx-Italic-tlf-ot1.tfm
-INPUT ./images/Hierarchy-Chart.png
-INPUT ./images/Hierarchy-Chart.png
-INPUT ./images/Hierarchy-Chart.png
-INPUT ./images/Hierarchy-Chart.png
-INPUT ./images/Hierarchy-Chart.png
 INPUT /nix/store/nn50xms44xc7fhb1cm6vicw77hpppxzl-texlive-2023-env-texmfdist/fonts/vf/public/newtx/ntx-Bold-tlf-ot1.vf
 INPUT /nix/store/nn50xms44xc7fhb1cm6vicw77hpppxzl-texlive-2023-env-texmfdist/fonts/tfm/public/newtx/txbmiaX.tfm
 INPUT /nix/store/nn50xms44xc7fhb1cm6vicw77hpppxzl-texlive-2023-env-texmfdist/fonts/tfm/public/newtx/ntx-Bold-tlf-ot1r.tfm
@@ -506,6 +501,11 @@ INPUT /nix/store/nn50xms44xc7fhb1cm6vicw77hpppxzl-texlive-2023-env-texmfdist/fon
 INPUT /nix/store/nn50xms44xc7fhb1cm6vicw77hpppxzl-texlive-2023-env-texmfdist/fonts/vf/public/newtx/ntx-Regular-tlf-ot1.vf
 INPUT /nix/store/nn50xms44xc7fhb1cm6vicw77hpppxzl-texlive-2023-env-texmfdist/fonts/tfm/public/newtx/txmiaX.tfm
 INPUT /nix/store/nn50xms44xc7fhb1cm6vicw77hpppxzl-texlive-2023-env-texmfdist/fonts/tfm/public/newtx/ntx-Regular-tlf-ot1r.tfm
+INPUT ./images/Hierarchy-Chart.png
+INPUT ./images/Hierarchy-Chart.png
+INPUT ./images/Hierarchy-Chart.png
+INPUT ./images/Hierarchy-Chart.png
+INPUT ./images/Hierarchy-Chart.png
 INPUT ./images/Activity-Diagram.png
 INPUT ./images/Activity-Diagram.png
 INPUT ./images/Activity-Diagram.png

@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber seminar-proposal"] 1720360250.46714 "seminar-proposal.bcf" "seminar-proposal.bbl" "seminar-proposal" 1720362671.50033 0
+["biber seminar-proposal"] 1720360250.46714 "seminar-proposal.bcf" "seminar-proposal.bbl" "seminar-proposal" 1720622112.3573 0
   "bibtex/daftar-pustaka.bib" 1720360171.63087 18823 c283a68389ca0a5a519889b594d1ebcc ""
-  "seminar-proposal.bcf" 1720362671.3536 109906 978a60210e3dc92f3b82af380287b16a "pdflatex"
+  "seminar-proposal.bcf" 1720622112.17806 109906 978a60210e3dc92f3b82af380287b16a "pdflatex"
   (generated)
   "seminar-proposal.bbl"
   "seminar-proposal.blg"
   (rewritten before read)
-["pdflatex"] 1720362668.2252 "seminar-proposal.tex" "seminar-proposal.pdf" "seminar-proposal" 1720362671.50061 0
+["pdflatex"] 1720622108.97847 "seminar-proposal.tex" "seminar-proposal.pdf" "seminar-proposal" 1720622112.35758 0
   "/nix/store/nn50xms44xc7fhb1cm6vicw77hpppxzl-texlive-2023-env-texmfdist/fonts/enc/dvips/newtx/ntx-ot1-tlf-pc.enc" 1 2211 c42193888177bc8f86d55dca129a9358 ""
   "/nix/store/nn50xms44xc7fhb1cm6vicw77hpppxzl-texlive-2023-env-texmfdist/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc" 1 2083 60e36f8eac802fcaf19eabe2633b406e ""
   "/nix/store/nn50xms44xc7fhb1cm6vicw77hpppxzl-texlive-2023-env-texmfdist/fonts/map/fontname/texfonts.map" 1 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -260,16 +260,16 @@
   "images/input-threshold.png" 1719764824.60227 41547 9b40c58c9d2e5157883e22815809d506 ""
   "include/bab1.tex" 1720353211.33401 6825 b1ecc6fe31a61a2a056cadbf7ee9791d ""
   "include/bab2.tex" 1720360357.97761 21110 d2f0b0b6ff27c3695f332badee66c43e ""
-  "include/bab3.tex" 1720362662.9307 19264 efb410c59549ed5171ce6fec6b849545 ""
+  "include/bab3.tex" 1720622107.19912 19424 e49776d8836ccb81683646869c8df407 ""
   "include/kata-pengantar.tex" 1720351341.12754 1011 1a301b9c959517279516840eeadf6a4c ""
   "lib/skripsi.cls" 1690551694 26268 1b5d97fc6e1e8bc8260305e5bba0f646 ""
-  "seminar-proposal.aux" 1720362671.3486 11002 d65fed1b562711026475632e99c4442f "pdflatex"
+  "seminar-proposal.aux" 1720622112.17306 10089 2bcc83eabdc57a91a14e5e92ceb069e6 "pdflatex"
   "seminar-proposal.bbl" 1720360251.3859 19924 71fabe59baadb71f2baefa3264c9eb6e "biber seminar-proposal"
-  "seminar-proposal.lof" 1720362671.3536 2054 0c9f39f2c51d7e464a186937e0baf0d7 "pdflatex"
-  "seminar-proposal.out" 1720362671.3506 5122 2fae3a5acca3b7ee7f78105726745c05 "pdflatex"
-  "seminar-proposal.run.xml" 1720362671.3536 2399 17456f25af9510266c785e0ae288c76b "pdflatex"
+  "seminar-proposal.lof" 1720622112.17906 2054 b769cd841e61a8ffb5207577fecf8de7 "pdflatex"
+  "seminar-proposal.out" 1720622112.17506 4141 49bb5929973ef77c756fb1158728edb7 "pdflatex"
+  "seminar-proposal.run.xml" 1720622112.17906 2399 17456f25af9510266c785e0ae288c76b "pdflatex"
   "seminar-proposal.tex" 1720355434.57105 2188 6d36eb9e998d6aa3acee7a0c450945c7 ""
-  "seminar-proposal.toc" 1720362671.3536 2814 aa7073eb021b1f2783280de693bee252 "pdflatex"
+  "seminar-proposal.toc" 1720622112.17906 2191 63e88a2b6d7bf7b3367ad539f9525480 "pdflatex"
   (generated)
   "seminar-proposal.aux"
   "seminar-proposal.bcf"
