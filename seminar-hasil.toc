@@ -1,7 +1,7 @@
 \contentsline {chapter}{DAFTAR ISI}{i}{Doc-Start}%
-\contentsline {chapter}{DAFTAR TABEL}{ii}{Doc-Start}%
-\contentsline {chapter}{DAFTAR GAMBAR}{iii}{Doc-Start}%
-\contentsline {chapter}{DAFTAR LAMPIRAN}{iv}{Doc-Start}%
+\contentsline {chapter}{DAFTAR TABEL}{iii}{Doc-Start}%
+\contentsline {chapter}{DAFTAR GAMBAR}{iv}{Doc-Start}%
+\contentsline {chapter}{DAFTAR LAMPIRAN}{v}{Doc-Start}%
 \contentsline {chapter}{\numberline {I}PENDAHULUAN}{1}{chapter.1}%
 \contentsline {section}{\numberline {1.1}Latar Belakang}{1}{section.1.1}%
 \contentsline {section}{\numberline {1.2}Identifikasi Masalah}{2}{section.1.2}%
@@ -9,22 +9,26 @@
 \contentsline {section}{\numberline {1.4}Batasan Masalah}{3}{section.1.4}%
 \contentsline {section}{\numberline {1.5}Tujuan Penelitian}{4}{section.1.5}%
 \contentsline {section}{\numberline {1.6}Manfaat Penelitian}{4}{section.1.6}%
-\contentsline {chapter}{\numberline {II}LANDASAN TEORI}{6}{chapter.2}%
-\contentsline {section}{\numberline {2.1}Tinjauan Pustaka}{6}{section.2.1}%
-\contentsline {section}{\numberline {2.2}Dasar Teori}{7}{section.2.2}%
-\contentsline {subsection}{\numberline {2.2.1}Pengolahan Citra Digital}{7}{subsection.2.2.1}%
-\contentsline {subsection}{\numberline {2.2.2}Segmentasi}{8}{subsection.2.2.2}%
-\contentsline {subsection}{\numberline {2.2.3}Media Pembelajaran}{9}{subsection.2.2.3}%
-\contentsline {subsection}{\numberline {2.2.4}Visualisasi}{9}{subsection.2.2.4}%
-\contentsline {subsection}{\numberline {2.2.5}Web}{10}{subsection.2.2.5}%
-\contentsline {subsection}{\numberline {2.2.6}Alat Bantu Pengembangan di Perancangan Sistem}{11}{subsection.2.2.6}%
-\contentsline {subsection}{\numberline {2.2.7}\textit {Software} Pendukung}{12}{subsection.2.2.7}%
-\contentsline {subsection}{\numberline {2.2.8}Kerangka Pemikiran}{14}{subsection.2.2.8}%
-\contentsline {chapter}{\numberline {III}METODE PENENILITIAN}{16}{chapter.3}%
-\contentsline {chapter}{\numberline {IV}HASIL DAN PEMBAHASAN}{17}{chapter.4}%
-\contentsline {chapter}{\numberline {V}KESIMPULAN DAN SARAN}{18}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Kesimpulan}{18}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Saran}{19}{section.5.2}%
-\contentsline {chapter}{DAFTAR PUSTAKA}{20}{section.5.2}%
-\contentsline {chapter}{LAMPIRAN}{20}{section.5.2}%
+\contentsline {chapter}{\numberline {II}LANDASAN TEORI}{5}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Tinjauan Pustaka}{5}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Dasar Teori}{6}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Pengolahan Citra Digital}{6}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}Media Pembelajaran}{10}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.3}Visualisasi}{11}{subsection.2.2.3}%
+\contentsline {subsection}{\numberline {2.2.4}Web}{11}{subsection.2.2.4}%
+\contentsline {subsection}{\numberline {2.2.5}Alat Bantu Pengembangan di Perancangan Sistem}{12}{subsection.2.2.5}%
+\contentsline {subsection}{\numberline {2.2.6}\textit {Software} Pendukung}{13}{subsection.2.2.6}%
+\contentsline {chapter}{\numberline {III}METODOLOGI PENENILITIAN}{16}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Metode Penelitian}{16}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Metode Pengumpulan Data}{16}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}Metode Pengembangan Aplikasi}{17}{subsection.3.1.2}%
+\contentsline {section}{\numberline {3.2}Alat dan Bahan Penelitian}{32}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Spesifikasi Perangkat Keras(\textit {Hardware})}{32}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Spesifikasi Perangkat Lunak(\textit {Software})}{32}{subsection.3.2.2}%
+\contentsline {chapter}{\numberline {IV}HASIL DAN PEMBAHASAN}{34}{chapter.4}%
+\contentsline {chapter}{\numberline {V}KESIMPULAN DAN SARAN}{35}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Kesimpulan}{35}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Saran}{35}{section.5.2}%
+\contentsline {chapter}{DAFTAR PUSTAKA}{35}{section.5.2}%
+\contentsline {chapter}{LAMPIRAN}{37}{chapter*.16}%
 \setcounter {tocdepth}{0}

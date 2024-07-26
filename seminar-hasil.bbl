@@ -1,0 +1,481 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{anyt/global//global/global}
+    \entry{arsyad2015media}{book}{}
+      \name{author}{2}{}{%
+        {{hash=364f62b9c9b1f8b84a5217326207abff}{%
+           family={Arsyad},
+           familyi={A\bibinitperiod},
+           given={Azhar},
+           giveni={A\bibinitperiod}}}%
+        {{hash=9f0d1a858667bfe5d4693c5968245ffb}{%
+           family={Rahman},
+           familyi={R\bibinitperiod},
+           given={Asfah},
+           giveni={A\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=9f0d1a858667bfe5d4693c5968245ffb}{%
+           family={Rahman},
+           familyi={R\bibinitperiod},
+           given={Asfah},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Jakarta}%
+      }
+      \list{publisher}{1}{%
+        {Raja Grafindo Persada}%
+      }
+      \strng{namehash}{821a6ccfd90d7e5d05f6320b73612c9b}
+      \strng{fullhash}{821a6ccfd90d7e5d05f6320b73612c9b}
+      \strng{bibnamehash}{821a6ccfd90d7e5d05f6320b73612c9b}
+      \strng{authorbibnamehash}{821a6ccfd90d7e5d05f6320b73612c9b}
+      \strng{authornamehash}{821a6ccfd90d7e5d05f6320b73612c9b}
+      \strng{authorfullhash}{821a6ccfd90d7e5d05f6320b73612c9b}
+      \strng{editorbibnamehash}{9f0d1a858667bfe5d4693c5968245ffb}
+      \strng{editornamehash}{9f0d1a858667bfe5d4693c5968245ffb}
+      \strng{editorfullhash}{9f0d1a858667bfe5d4693c5968245ffb}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Media Pembelajaran}
+      \field{year}{2015}
+    \endentry
+    \entry{hutahaean2019teknologi}{article}{}
+      \name{author}{3}{}{%
+        {{hash=0cdd276d3de28159dc89cd60a013cbb5}{%
+           family={Hutahaean},
+           familyi={H\bibinitperiod},
+           given={Harvei\bibnamedelima Desmon},
+           giveni={H\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=a08ec99889b5f5da1e0121c294e03b71}{%
+           family={Waluyo},
+           familyi={W\bibinitperiod},
+           given={Bakti\bibnamedelima Dwi},
+           giveni={B\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=ccc8d6fff2dd19cecce16dbecf2437e8}{%
+           family={Rais},
+           familyi={R\bibinitperiod},
+           given={Muhammad\bibnamedelima Amin},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{1084f2a051c447ab5d3ceb23c232e457}
+      \strng{fullhash}{1084f2a051c447ab5d3ceb23c232e457}
+      \strng{bibnamehash}{1084f2a051c447ab5d3ceb23c232e457}
+      \strng{authorbibnamehash}{1084f2a051c447ab5d3ceb23c232e457}
+      \strng{authornamehash}{1084f2a051c447ab5d3ceb23c232e457}
+      \strng{authorfullhash}{1084f2a051c447ab5d3ceb23c232e457}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Jurnal Teknik Informatika UNIKA Santo Thomas}
+      \field{number}{2}
+      \field{title}{Teknologi Identifikasi Objek Berbasis Drone Menggunakan Algoritma Sift Citra Digital}
+      \field{volume}{4}
+      \field{year}{2019}
+      \field{pages}{202\bibrangedash 207}
+      \range{pages}{6}
+    \endentry
+    \entry{Jumadi_Yupianti_Sartika_2021}{article}{}
+      \name{author}{3}{}{%
+        {{hash=521e103e311567521abe33a35d8688d1}{%
+           family={Jumadi},
+           familyi={J\bibinitperiod},
+           given={Juju},
+           giveni={J\bibinitperiod}}}%
+        {{hash=fdbd6e47e240aac987f89fa983ad867d}{%
+           family={Yupianti},
+           familyi={Y\bibinitperiod},
+           given={Yupianti},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=6514485c0b6f033369f4996d863f3781}{%
+           family={Sartika},
+           familyi={S\bibinitperiod},
+           given={Devi},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{ac19f1cf660496c019f84feb0f7d9f89}
+      \strng{fullhash}{ac19f1cf660496c019f84feb0f7d9f89}
+      \strng{bibnamehash}{ac19f1cf660496c019f84feb0f7d9f89}
+      \strng{authorbibnamehash}{ac19f1cf660496c019f84feb0f7d9f89}
+      \strng{authornamehash}{ac19f1cf660496c019f84feb0f7d9f89}
+      \strng{authorfullhash}{ac19f1cf660496c019f84feb0f7d9f89}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{JST (Jurnal Sains dan Teknologi)}
+      \field{month}{11}
+      \field{number}{2}
+      \field{title}{PENGOLAHAN CITRA DIGITAL UNTUK IDENTIFIKASI OBJEK MENGGUNAKAN METODE HIERARCHICAL AGGLOMERATIVE CLUSTERING}
+      \field{volume}{10}
+      \field{year}{2021}
+      \field{pages}{148\bibrangedash 156}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.23887/jstundiksha.v10i2.33636
+      \endverb
+      \verb{urlraw}
+      \verb https://ejournal.undiksha.ac.id/index.php/JST/article/view/33636
+      \endverb
+      \verb{url}
+      \verb https://ejournal.undiksha.ac.id/index.php/JST/article/view/33636
+      \endverb
+    \endentry
+    \entry{mahardika2017implementasi}{article}{}
+      \name{author}{3}{}{%
+        {{hash=d31cdd1a6d3d1fe04f4435f59d477b02}{%
+           family={Mahardika},
+           familyi={M\bibinitperiod},
+           given={Fajar},
+           giveni={F\bibinitperiod}}}%
+        {{hash=0874bd116ce8402f8a0e3f5344cbb003}{%
+           family={Purwanto},
+           familyi={P\bibinitperiod},
+           given={Kabul\bibnamedelima Agus},
+           giveni={K\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=71fa5c260c082282d705b36674bce0bb}{%
+           family={Saputra},
+           familyi={S\bibinitperiod},
+           given={Dhanar\bibnamedelimb Intan\bibnamedelima Surya},
+           giveni={D\bibinitperiod\bibinitdelim I\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{51193a6e032363ecec40e58dced3b2e7}
+      \strng{fullhash}{51193a6e032363ecec40e58dced3b2e7}
+      \strng{bibnamehash}{51193a6e032363ecec40e58dced3b2e7}
+      \strng{authorbibnamehash}{51193a6e032363ecec40e58dced3b2e7}
+      \strng{authornamehash}{51193a6e032363ecec40e58dced3b2e7}
+      \strng{authorfullhash}{51193a6e032363ecec40e58dced3b2e7}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{VOLT: Jurnal Ilmiah Pendidikan Teknik Elektro}
+      \field{number}{1}
+      \field{title}{Implementasi Metode Waterfall pada Proses Digitalisasi Citra Analog}
+      \field{volume}{2}
+      \field{year}{2017}
+      \field{pages}{63\bibrangedash 72}
+      \range{pages}{10}
+    \endentry
+    \entry{munantri2020aplikasi}{article}{}
+      \name{author}{3}{}{%
+        {{hash=227ad6cca93b67f1128e05d230edf90c}{%
+           family={Munantri},
+           familyi={M\bibinitperiod},
+           given={Nadzir\bibnamedelima Zaid},
+           giveni={N\bibinitperiod\bibinitdelim Z\bibinitperiod}}}%
+        {{hash=0cdad38413057ed93d00de6defd480b7}{%
+           family={Sofyan},
+           familyi={S\bibinitperiod},
+           given={Herry},
+           giveni={H\bibinitperiod}}}%
+        {{hash=b62c0ac09ef3cd6df20a1ade20754501}{%
+           family={Florestiyanto},
+           familyi={F\bibinitperiod},
+           given={Mangaras\bibnamedelima Yanu},
+           giveni={M\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{e7584a1423ccdc7a38dd04aac52e2796}
+      \strng{fullhash}{e7584a1423ccdc7a38dd04aac52e2796}
+      \strng{bibnamehash}{e7584a1423ccdc7a38dd04aac52e2796}
+      \strng{authorbibnamehash}{e7584a1423ccdc7a38dd04aac52e2796}
+      \strng{authornamehash}{e7584a1423ccdc7a38dd04aac52e2796}
+      \strng{authorfullhash}{e7584a1423ccdc7a38dd04aac52e2796}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Telematika: Jurnal Informatika dan Teknologi Informasi}
+      \field{number}{2}
+      \field{title}{Aplikasi Pengolahan Citra Digital Untuk Identifikasi Umur Pohon}
+      \field{volume}{16}
+      \field{year}{2020}
+      \field{pages}{97\bibrangedash 104}
+      \range{pages}{8}
+    \endentry
+    \entry{nurrita2018pengembangan}{article}{}
+      \name{author}{1}{}{%
+        {{hash=ee51d6fb8ebf5c8f333c9e8e4d16049a}{%
+           family={Nurrita},
+           familyi={N\bibinitperiod},
+           given={Teni},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{ee51d6fb8ebf5c8f333c9e8e4d16049a}
+      \strng{fullhash}{ee51d6fb8ebf5c8f333c9e8e4d16049a}
+      \strng{bibnamehash}{ee51d6fb8ebf5c8f333c9e8e4d16049a}
+      \strng{authorbibnamehash}{ee51d6fb8ebf5c8f333c9e8e4d16049a}
+      \strng{authornamehash}{ee51d6fb8ebf5c8f333c9e8e4d16049a}
+      \strng{authorfullhash}{ee51d6fb8ebf5c8f333c9e8e4d16049a}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Jurnal misykat}
+      \field{number}{1}
+      \field{title}{Pengembangan media pembelajaran untuk meningkatkan hasil belajar siswa}
+      \field{volume}{3}
+      \field{year}{2018}
+      \field{pages}{171\bibrangedash 187}
+      \range{pages}{17}
+    \endentry
+    \entry{pratama2021rancang}{article}{}
+      \name{author}{2}{}{%
+        {{hash=f20e28c24030ff237f6745504d569dab}{%
+           family={Pratama},
+           familyi={P\bibinitperiod},
+           given={Megi},
+           giveni={M\bibinitperiod}}}%
+        {{hash=456e0f42cf184df6acf616e3e6e57511}{%
+           family={Delianti},
+           familyi={D\bibinitperiod},
+           given={Vera\bibnamedelima Irma},
+           giveni={V\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+      }
+      \strng{namehash}{ae2d41de8daabe659f1ddcee8d97c432}
+      \strng{fullhash}{ae2d41de8daabe659f1ddcee8d97c432}
+      \strng{bibnamehash}{ae2d41de8daabe659f1ddcee8d97c432}
+      \strng{authorbibnamehash}{ae2d41de8daabe659f1ddcee8d97c432}
+      \strng{authornamehash}{ae2d41de8daabe659f1ddcee8d97c432}
+      \strng{authorfullhash}{ae2d41de8daabe659f1ddcee8d97c432}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{INCARE, International Journal of Educational Resources}
+      \field{number}{2}
+      \field{title}{RANCANG BANGUN APLIKASI PRESENSI DENGAN GLOBAL POTITIONING SYSTEM (GPS) BERBASIS ANDROID (Studi Kasus: PT. Perkebunan Nusantara VI Unit Usaha Kayu Aro)}
+      \field{volume}{2}
+      \field{year}{2021}
+      \field{pages}{141\bibrangedash 154}
+      \range{pages}{14}
+    \endentry
+    \entry{Setiawan_Dewanta_Nugroho_Supriyono_2019}{article}{}
+      \name{author}{4}{}{%
+        {{hash=6d8dc626659b1b263f6677ac9eedeb4b}{%
+           family={Setiawan},
+           familyi={S\bibinitperiod},
+           given={Ismail},
+           giveni={I\bibinitperiod}}}%
+        {{hash=4c0d5ee2ee6fbfe375d1e1b66431dff6}{%
+           family={Dewanta},
+           familyi={D\bibinitperiod},
+           given={Wika},
+           giveni={W\bibinitperiod}}}%
+        {{hash=1bf7a6f5b1ad7f4e4d1b52f7f9d4b417}{%
+           family={Nugroho},
+           familyi={N\bibinitperiod},
+           given={Hanung},
+           giveni={H\bibinitperiod}}}%
+        {{hash=0e96c2bda0a9b683dd21b7296e63f2c6}{%
+           family={Supriyono},
+           familyi={S\bibinitperiod},
+           given={Heru},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{08af5055a5f67a978d1adc500a284a49}
+      \strng{fullhash}{72c0eb2dc675e2a432e48fae0e059d89}
+      \strng{bibnamehash}{72c0eb2dc675e2a432e48fae0e059d89}
+      \strng{authorbibnamehash}{72c0eb2dc675e2a432e48fae0e059d89}
+      \strng{authornamehash}{08af5055a5f67a978d1adc500a284a49}
+      \strng{authorfullhash}{72c0eb2dc675e2a432e48fae0e059d89}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{JURNAL MEDIA INFOTAMA}
+      \field{month}{10}
+      \field{number}{2}
+      \field{title}{Pengolah Citra Dengan Metode Thresholding Dengan Matlab R2014A}
+      \field{volume}{15}
+      \field{year}{2019}
+      \verb{doi}
+      \verb 10.37676/jmi.v15i2.868
+      \endverb
+      \verb{urlraw}
+      \verb https://jurnal.unived.ac.id/index.php/jmi/article/view/868
+      \endverb
+      \verb{url}
+      \verb https://jurnal.unived.ac.id/index.php/jmi/article/view/868
+      \endverb
+    \endentry
+    \entry{suryadibrata2020visualisasi}{article}{}
+      \name{author}{2}{}{%
+        {{hash=4e2d195bc5e0fef63ed5e076531f7a3b}{%
+           family={Suryadibrata},
+           familyi={S\bibinitperiod},
+           given={Alethea},
+           giveni={A\bibinitperiod}}}%
+        {{hash=2cfbd49c6d8531edab250a2c1a6d2094}{%
+           family={Young},
+           familyi={Y\bibinitperiod},
+           given={Julio\bibnamedelima Christian},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \strng{namehash}{0aeca42bba901de89dd9d3569042b677}
+      \strng{fullhash}{0aeca42bba901de89dd9d3569042b677}
+      \strng{bibnamehash}{0aeca42bba901de89dd9d3569042b677}
+      \strng{authorbibnamehash}{0aeca42bba901de89dd9d3569042b677}
+      \strng{authornamehash}{0aeca42bba901de89dd9d3569042b677}
+      \strng{authorfullhash}{0aeca42bba901de89dd9d3569042b677}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Ultimatics: Jurnal Teknik Informatika}
+      \field{number}{1}
+      \field{title}{Visualisasi Algoritma sebagai Sarana Pembelajaran K-Means Clustering}
+      \field{volume}{12}
+      \field{year}{2020}
+      \field{pages}{25\bibrangedash 29}
+      \range{pages}{5}
+    \endentry
+    \entry{suryowinoto2017penggunaan}{article}{}
+      \name{author}{2}{}{%
+        {{hash=d45d4406dc8edc372fbc7c88c40e455c}{%
+           family={Suryowinoto},
+           familyi={S\bibinitperiod},
+           given={Andy},
+           giveni={A\bibinitperiod}}}%
+        {{hash=82f02b3a828f1cb484c0945aafc36d1b}{%
+           family={Hamid},
+           familyi={H\bibinitperiod},
+           given={Abdul},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{49b8be77442f3be0867c60c02696d80c}
+      \strng{fullhash}{49b8be77442f3be0867c60c02696d80c}
+      \strng{bibnamehash}{49b8be77442f3be0867c60c02696d80c}
+      \strng{authorbibnamehash}{49b8be77442f3be0867c60c02696d80c}
+      \strng{authornamehash}{49b8be77442f3be0867c60c02696d80c}
+      \strng{authorfullhash}{49b8be77442f3be0867c60c02696d80c}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Semin. Nas. Sains dan Teknol. Terap. V}
+      \field{title}{Penggunaan Pengolahan Citra Digital dengan Algoritma Edge Detection dalam Mengidentifikasi Kerusakan Kontur Jalan}
+      \field{year}{2017}
+      \field{pages}{149\bibrangedash 154}
+      \range{pages}{6}
+    \endentry
+    \entry{SPEKTRUM}{article}{}
+      \name{author}{3}{}{%
+        {{hash=1dfd38a595a26113f257196255bd010e}{%
+           family={Yasa},
+           familyi={Y\bibinitperiod},
+           given={I\bibnamedelima Made\bibnamedelimb Rai\bibnamedelima Putera},
+           giveni={I\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=71c45be70d0552238fefd66ebc480d3a}{%
+           family={Widyantara},
+           familyi={W\bibinitperiod},
+           given={I\bibnamedelima Made\bibnamedelima Oka},
+           giveni={I\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+        {{hash=16584ff874d4ba036782864fe492ac7f}{%
+           family={Wirastuti},
+           familyi={W\bibinitperiod},
+           given={NMAE\bibnamedelima Dewi},
+           giveni={N\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \strng{namehash}{a85cc109521eeb29b5af6774358c42cb}
+      \strng{fullhash}{a85cc109521eeb29b5af6774358c42cb}
+      \strng{bibnamehash}{a85cc109521eeb29b5af6774358c42cb}
+      \strng{authorbibnamehash}{a85cc109521eeb29b5af6774358c42cb}
+      \strng{authornamehash}{a85cc109521eeb29b5af6774358c42cb}
+      \strng{authorfullhash}{a85cc109521eeb29b5af6774358c42cb}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2684-9186}
+      \field{journaltitle}{Jurnal SPEKTRUM}
+      \field{number}{2}
+      \field{title}{PERBAIKAN KONTRAS CITRA MENGGUNAKAN TEKNIK BRIGHTNESS ADJUSTMENT UNTUK SISTEM EKSTRAKSI GARIS PANTAI}
+      \field{volume}{4}
+      \field{year}{2018}
+      \field{pages}{42\bibrangedash 47}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.24843/SPEKTRUM.2017.v04.i02.p06
+      \endverb
+      \verb{urlraw}
+      \verb https://ojs.unud.ac.id/index.php/spektrum/article/view/36411
+      \endverb
+      \verb{url}
+      \verb https://ojs.unud.ac.id/index.php/spektrum/article/view/36411
+      \endverb
+    \endentry
+    \entry{zarkasyi2015pengembangan}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=d69e6038a403be658672ba6404cd05aa}{%
+           family={Zarkasyi},
+           familyi={Z\bibinitperiod},
+           given={Chairun\bibnamedelima Nisa},
+           giveni={C\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+      }
+      \strng{namehash}{d69e6038a403be658672ba6404cd05aa}
+      \strng{fullhash}{d69e6038a403be658672ba6404cd05aa}
+      \strng{bibnamehash}{d69e6038a403be658672ba6404cd05aa}
+      \strng{authorbibnamehash}{d69e6038a403be658672ba6404cd05aa}
+      \strng{authornamehash}{d69e6038a403be658672ba6404cd05aa}
+      \strng{authorfullhash}{d69e6038a403be658672ba6404cd05aa}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Seminar Nasional Matematika dan Pendidikan Matematika UNY}
+      \field{title}{Pengembangan Media Pembelajaran dengan GeoGebra untuk Visualisasi Penggunaan Integral pada Siswa SMA}
+      \field{year}{2015}
+      \field{pages}{283\bibrangedash 290}
+      \range{pages}{8}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
