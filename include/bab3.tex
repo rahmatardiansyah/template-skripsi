@@ -14,7 +14,7 @@ Dalam penelitian ini, metode pengumpulan data yang digunakan meliputi studi pust
 
     Metode wawancara akan digunakan untuk mendapatkan perspektif dan informasi dari para ahli dalam bidang pengolahan citra digital. Wawancara akan dilakukan dengan para akademisi atau praktisi yang memiliki pengetahuan dan pengalaman dalam pengolahan citra digital. Pertanyaan-pertanyaan terkait dengan konsep pengolahan citra digital, penggunaan visualisasi interaktif dalam pembelajaran, tantangan yang dihadapi dalam pengembangan media pembelajaran, dan saran atau rekomendasi akan diajukan kepada responden.
 
-    \item Obervasi
+    \item Observasi
 
     Metode observasi dilakukan dengan mengamati penggunaan media pembelajaran yang ada atau situasi pembelajaran yang terkait dengan pengolahan citra digital. Observasi dilakukan secara langsung untuk melihat bagaimana mahasiswa berinteraksi dengan materi pembelajaran, sejauh mana mereka memahami konsep-konsep pengolahan citra digital, serta kendala atau masalah yang mungkin timbul selama proses pembelajaran. Observasi ini dilakukan dalam lingkungan kelas atau laboratorium komputer.
 
@@ -23,13 +23,11 @@ Dalam penelitian ini, metode pengumpulan data yang digunakan meliputi studi pust
 \subsection{Metode Pengembangan Aplikasi}
 Metode pengembangan aplikasi yang akan digunakan dalam penelitian ini adalah metode waterfall. Metode waterfall adalah salah satu pendekatan pengembangan perangkat lunak yang terstruktur dan linear, di mana setiap fase pengembangan dilakukan secara berurutan dan tidak ada overlap antar fase. Berikut adalah tahapan-tahapan pengembangan aplikasi menggunakan metode waterfall:
 
-\begin{enumerate}[leftmargin=1cm, itemindent=0.6cm,labelwidth=15pt, labelsep=5pt, listparindent=1cm,align=left]
-
-    \item Analisis Kebutuhan
+\subsubsection{Analisis Kebutuhan}
 
     Tahap analisis kebutuhan dilakukan untuk memahami secara mendalam kebutuhan pengguna dan tujuan dari pengembangan aplikasi. Pada tahap ini, dilakukan identifikasi kebutuhan pengolahan citra digital yang perlu disajikan dalam media pembelajaran berbasis web. Analisis kebutuhan ini melibatkan wawancara dengan para pengguna potensial dan pengumpulan informasi terkait konsep-konsep pengolahan citra digital yang penting.
 
-    \item Perancangan
+\subsubsection{Perancangan}
 
     Setelah kebutuhan dianalisis, tahap perancangan dilakukan untuk merancang struktur dan fungsionalitas media pembelajaran. Pada tahap ini, dilakukan perancangan antarmuka pengguna, aliran informasi, dan navigasi aplikasi. Perancangan ini juga melibatkan pemilihan algoritma pengolahan citra yang akan digunakan dalam media pembelajaran.
 
@@ -117,8 +115,7 @@ Berikut adalah flowchart yang menunjukkan sistem media pembelajaran pengolahan c
 
     \item Program Flowchart Operasi \textit{Image Blending}
 
-        Flowchart Operasi \textit{Image Blending} adalah sebuah gambaran langkah demi langkah saat pengguna melakukan memulai proses penjumlahan antara 2 citra grayscale. Pada menu \textit{image blending} pengguna diminta memilih 2 gambar kemudian pengguna bisa mengubah nilai dari citra grayscale tersebut. Jika pengguna tidak mengubah nilai dari citra warna pengguna bisa menekan tombol \textit{start, pause, stop} dan \textit{repeat}. Pengguna juga bisa mengatur berapa besar nilai \(\alpha\) antara 0.1 sampai dengan 0.9 menggunakan \textit{input number}.
-
+        Flowchart Operasi \textit{Image Blending} adalah sebuah gambaran langkah demi langkah saat pengguna melakukan memulai proses penjumlahan antara 2 citra grayscale. Pada menu \textit{image blending} pengguna diminta memilih 2 gambar kemudian pengguna bisa mengubah nilai dari citra grayscale tersebut. Jika pengguna tidak mengubah nilai dari citra warna pengguna bisa menekan tombol \textit{start, pause, stop} dan \textit{repeat}. Pengguna juga bisa mengatur berapa besar nilai \(\alpha\) antara 0.1 sampai dengan 0.9 menggunakan \textit{input number}
     \pagebreak
 
       \begin{figure*}[ht]
@@ -194,6 +191,7 @@ Pengguna dapat memilih salah satu dari tiga gambar \textit{grayscale} untuk dipr
 
           Pengguna dapat memilih dua gambar \textit{grayscale} untuk diproses. Setelah memilih gambar, tabel \textit{grayscale} muncul dengan nilai awal, dan pengguna dapat mengubah nilai \textit{grayscale} melalui dua \textit{input text area}. Pengguna juga dapat menginput nilai \textit{threshold} dari angka 1 - 255.
 
+\pagebreak
 
           \begin{figure*}[ht]
     	      \includegraphics[width=0.6\textwidth, center]{images/input-blending.png}
@@ -206,28 +204,27 @@ Pengguna dapat memilih salah satu dari tiga gambar \textit{grayscale} untuk dipr
 
           Pengguna dapat memilih dua gambar \textit{grayscale} untuk diproses. Setelah memilih gambar, tabel \textit{grayscale} muncul dengan nilai awal, dan pengguna dapat mengubah nilai \textit{grayscale} melalui dua \textit{input text area}.
 
-    \pagebreak
-
-          \begin{figure*}[ht]
+        \begin{figure*}[ht]
     	      \includegraphics[width=0.6\textwidth, center]{images/input-substraction.png}
               \caption{Desain Input Halaman \textit{Image Substraction}}
-          \end{figure*}
+        \end{figure*}
+
+    \pagebreak
+
 \end{enumerate}
 \end{enumerate}
 
-    \item Implementasi
+\subsubsection{Implementasi}
 
     Tahap implementasi melibatkan pembuatan kode program berdasarkan perancangan yang telah disusun sebelumnya. Pada tahap ini, dilakukan pengembangan aplikasi berbasis web yang mendukung pengolahan citra digital dan visualisasi interaktif. Web yang dibuat menggunakan HTML, CSS, dan JavaScript, dengan React dan Tailwind CSS sebagai library tambahannya. Algoritma pengolahan citra yang dipilih akan diimplementasikan dalam kode program yang sesuai.
 
-    \item Pengujian
+\subsubsection{Pengujian}
 
         Setelah tahap implementasi, pengujian aplikasi dilakukan untuk memastikan bahwa aplikasi berfungsi dengan baik dan memenuhi kebutuhan pengguna. Pengujian ini melibatkan 30 responden yang terdiri dari mahasiswa dan masyarakat umum, yang diminta menjawab 5 pertanyaan terkait pengalaman pengguna (\textit{user experience}) dalam menggunakan aplikasi tersebut. Hasil kuisioner akan dianalisis menggunakan metode skala \textit{Likert}.
 
-\item Pemeliharaan
+\subsubsection{Pemeliharaan}
 
     Setelah aplikasi diimplementasikan dan diuji, langkah selanjutnya adalah pemeliharaan. Tahap pemeliharaan melibatkan pemantauan kinerja aplikasi secara berkala dan memperbaiki masalah yang muncul setelah aplikasi berada dalam lingkungan produksi. Pemeliharaan juga mencakup penambahan fitur baru atau perubahan fungsionalitas sesuai dengan kebutuhan yang berkembang dari pengguna.
-
-\end{enumerate}
 
 Metode waterfall memberikan pendekatan yang terstruktur dan terurut dalam pengembangan aplikasi. Setiap tahap harus diselesaikan dengan baik sebelum melanjutkan ke tahap berikutnya. Pendekatan ini memastikan bahwa setiap fase pengembangan dapat diselesaikan dengan baik sebelum melanjutkan ke fase berikutnya, sehingga mengurangi risiko perubahan yang tidak terduga.
 

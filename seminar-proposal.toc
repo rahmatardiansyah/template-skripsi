@@ -21,7 +21,12 @@
 \contentsline {section}{\numberline {3.1}Metode Penelitian}{16}{section.3.1}%
 \contentsline {subsection}{\numberline {3.1.1}Metode Pengumpulan Data}{16}{subsection.3.1.1}%
 \contentsline {subsection}{\numberline {3.1.2}Metode Pengembangan Aplikasi}{17}{subsection.3.1.2}%
+\contentsline {subsubsection}{\numberline {3.1.2.1}Analisis Kebutuhan}{17}{subsubsection.3.1.2.1}%
+\contentsline {subsubsection}{\numberline {3.1.2.2}Perancangan}{17}{subsubsection.3.1.2.2}%
+\contentsline {subsubsection}{\numberline {3.1.2.3}Implementasi}{31}{subsubsection.3.1.2.3}%
+\contentsline {subsubsection}{\numberline {3.1.2.4}Pengujian}{31}{subsubsection.3.1.2.4}%
+\contentsline {subsubsection}{\numberline {3.1.2.5}Pemeliharaan}{32}{subsubsection.3.1.2.5}%
 \contentsline {section}{\numberline {3.2}Alat dan Bahan Penelitian}{32}{section.3.2}%
 \contentsline {subsection}{\numberline {3.2.1}Spesifikasi Perangkat Keras(\textit {Hardware})}{32}{subsection.3.2.1}%
 \contentsline {subsection}{\numberline {3.2.2}Spesifikasi Perangkat Lunak(\textit {Software})}{32}{subsection.3.2.2}%
-\contentsline {chapter}{DAFTAR PUSTAKA}{33}{Item.61}%
+\contentsline {chapter}{DAFTAR PUSTAKA}{33}{Item.56}%

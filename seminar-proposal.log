@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/nixos.org) (preloaded format=pdflatex 1980.1.1)  22 JUL 2024 01:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/nixos.org) (preloaded format=pdflatex 1980.1.1)  26 JUL 2024 20:24
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1408,153 +1408,125 @@ Underfull \hbox (badness 2158) in paragraph at lines 15--16
 
 [16
 
-] [17]
+]
+Underfull \hbox (badness 1147) in paragraph at lines 32--33
+\OT1/minntx/m/n/12 struk-tur dan fung-sion-al-i-tas me-dia pem-be-la-jaran. Pada tahap ini, di-lakukan
+ []
+
+
+Underfull \hbox (badness 1701) in paragraph at lines 32--33
+\OT1/minntx/m/n/12 per-an-can-gan an-tar-muka peng-guna, ali-ran in-for-masi, dan nav-i-gasi ap-likasi.
+ []
+
+
+Underfull \hbox (badness 1226) in paragraph at lines 38--39
+[]\OT1/ntxtlf/m/it/12 Context di-a-gram \OT1/minntx/m/n/12 adalah se-buah di-a-gram yang di-gu-nakan un-tuk
+ []
+
+[17]
 <images/diagram-konteks2.png, id=352, 583.17876pt x 683.55376pt>
 File: images/diagram-konteks2.png Graphic file (type png)
 <use images/diagram-konteks2.png>
-Package pdftex.def Info: images/diagram-konteks2.png  used on input line 43.
+Package pdftex.def Info: images/diagram-konteks2.png  used on input line 41.
 (pdftex.def)             Requested size: 239.00558pt x 280.14412pt.
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
-(Font)              scaled to size 10.95pt on input line 44.
+(Font)              scaled to size 10.95pt on input line 42.
 LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
-(Font)              scaled to size 10.95pt on input line 44.
+(Font)              scaled to size 10.95pt on input line 42.
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/it' will be
-(Font)              scaled to size 10.95pt on input line 44.
-
-Underfull \hbox (badness 3872) in paragraph at lines 47--48
-\OT1/minntx/m/n/12 batasan dan lingkup sis-tem. Di-a-gram ini juga memu-dahkan
- []
-
-[18 <./images/diagram-konteks2.png>]
-Underfull \hbox (badness 1424) in paragraph at lines 52--53
-\OT1/minntx/m/n/12 hubun-gan an-tara kom-po-nen atau modul dalam ben-tuk hi-er-arki.
- []
-
-
-Underfull \hbox (badness 3396) in paragraph at lines 52--53
-\OT1/minntx/m/n/12 pema-haman yang je-las men-ge-nai bagaimana berba-gai el-e-men
- []
-
+(Font)              scaled to size 10.95pt on input line 42.
+ [18 <./images/diagram-konteks2.png>]
 <images/Hierarchy-Chart.png, id=358, 804.00375pt x 463.7325pt>
 File: images/Hierarchy-Chart.png Graphic file (type png)
 <use images/Hierarchy-Chart.png>
-Package pdftex.def Info: images/Hierarchy-Chart.png  used on input line 55.
+Package pdftex.def Info: images/Hierarchy-Chart.png  used on input line 53.
 (pdftex.def)             Requested size: 426.79134pt x 246.15915pt.
-[19 <./images/Hierarchy-Chart.png>]
+ [19 <./images/Hierarchy-Chart.png>]
 <images/Activity-Diagram2.png, id=366, 623.32875pt x 715.67375pt>
 File: images/Activity-Diagram2.png Graphic file (type png)
 <use images/Activity-Diagram2.png>
-Package pdftex.def Info: images/Activity-Diagram2.png  used on input line 65.
+Package pdftex.def Info: images/Activity-Diagram2.png  used on input line 63.
 (pdftex.def)             Requested size: 227.62204pt x 261.34433pt.
-
-Underfull \hbox (badness 1371) in paragraph at lines 71--72
-[]\OT1/minntx/m/n/12 Berikut adalah flowchart yang me-nun-jukkan sis-tem me-dia
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 71--72
-\OT1/minntx/m/n/12 pem-be-la-jaran pen-go-la-han citra dig-i-tal berba-sis web yang
- []
-
-
-Underfull \hbox (badness 2828) in paragraph at lines 71--72
-\OT1/minntx/m/n/12 mem-per-li-hatkan alur atau langkah-langkah yang ter-jadi dalam
- []
-
 <images/flowchart-grayscale.png, id=367, 410.53375pt x 755.82375pt>
 File: images/flowchart-grayscale.png Graphic file (type png)
 <use images/flowchart-grayscale.png>
-Package pdftex.def Info: images/flowchart-grayscale.png  used on input line 80.
+Package pdftex.def Info: images/flowchart-grayscale.png  used on input line 78.
 (pdftex.def)             Requested size: 199.1693pt x 366.67787pt.
-[20 <./images/Activity-Diagram2.png>]
-Underfull \hbox (badness 1424) in paragraph at lines 86--87
-[]\OT1/minntx/m/n/12 Flowchart Op-erasi \OT1/ntxtlf/m/it/12 In-vert \OT1/minntx/m/n/12 atau negatif adalah se-buah
- []
-
+ [20 <./images/Activity-Diagram2.png>]
 File: images/flowchart-grayscale.png Graphic file (type png)
 <use images/flowchart-grayscale.png>
-Package pdftex.def Info: images/flowchart-grayscale.png  used on input line 90.
+Package pdftex.def Info: images/flowchart-grayscale.png  used on input line 88.
 (pdftex.def)             Requested size: 199.1693pt x 366.67787pt.
-[21 <./images/flowchart-grayscale.png>] [22]
+ [21 <./images/flowchart-grayscale.png>] [22]
 <images/flowchart-brightness.png, id=387, 410.53375pt x 805.0075pt>
 File: images/flowchart-brightness.png Graphic file (type png)
 <use images/flowchart-brightness.png>
-Package pdftex.def Info: images/flowchart-brightness.png  used on input line 103.
+Package pdftex.def Info: images/flowchart-brightness.png  used on input line 101.
 (pdftex.def)             Requested size: 199.1693pt x 390.53873pt.
-
-Underfull \hbox (badness 1565) in paragraph at lines 109--110
-[]\OT1/minntx/m/n/12 Flowchart op-erasi \OT1/ntxtlf/m/it/12 thresh-old \OT1/minntx/m/n/12 adalah se-buah gam-baran
- []
-
-[23 <./images/flowchart-brightness.png>]
+ [23 <./images/flowchart-brightness.png>]
 <images/flowchart-threshold.png, id=394, 410.53375pt x 836.12375pt>
 File: images/flowchart-threshold.png Graphic file (type png)
 <use images/flowchart-threshold.png>
-Package pdftex.def Info: images/flowchart-threshold.png  used on input line 114.
+Package pdftex.def Info: images/flowchart-threshold.png  used on input line 112.
 (pdftex.def)             Requested size: 199.1693pt x 405.63435pt.
- [24 <./images/flowchart-threshold.png>]
+
+Underfull \hbox (badness 1590) in paragraph at lines 118--120
+\OT1/minntx/m/n/12 peng-guna dim-inta memilih 2 gam-bar ke-mu-dian peng-guna bisa
+ []
+
+[24 <./images/flowchart-threshold.png>]
 <images/flowchart-blending.png, id=401, 416.55624pt x 985.6825pt>
 File: images/flowchart-blending.png Graphic file (type png)
 <use images/flowchart-blending.png>
-Package pdftex.def Info: images/flowchart-blending.png  used on input line 125.
+Package pdftex.def Info: images/flowchart-blending.png  used on input line 122.
 (pdftex.def)             Requested size: 199.1693pt x 471.28731pt.
+
+Underfull \hbox (badness 1721) in paragraph at lines 128--129
+\OT1/minntx/m/n/12 adalah se-buah gam-baran langkah demi langkah saat peng-guna
+ []
+
 <images/flowchart-substraction.png, id=402, 416.55624pt x 925.4575pt>
 File: images/flowchart-substraction.png Graphic file (type png)
 <use images/flowchart-substraction.png>
-Package pdftex.def Info: images/flowchart-substraction.png  used on input line 134.
+Package pdftex.def Info: images/flowchart-substraction.png  used on input line 131.
 (pdftex.def)             Requested size: 199.1693pt x 442.49176pt.
- [25 <./images/flowchart-blending.png>] [26 <./images/flowchart-substraction.png>]
+[25 <./images/flowchart-blending.png>] [26 <./images/flowchart-substraction.png>]
 <images/input-grayscale.png, id=417, 660.21657pt x 554.82281pt>
 File: images/input-grayscale.png Graphic file (type png)
 <use images/input-grayscale.png>
-Package pdftex.def Info: images/input-grayscale.png  used on input line 153.
+Package pdftex.def Info: images/input-grayscale.png  used on input line 150.
 (pdftex.def)             Requested size: 239.00558pt x 200.85356pt.
 <images/input-invert.png, id=418, 660.21657pt x 505.13719pt>
 File: images/input-invert.png Graphic file (type png)
 <use images/input-invert.png>
-Package pdftex.def Info: images/input-invert.png  used on input line 160.
+Package pdftex.def Info: images/input-invert.png  used on input line 157.
 (pdftex.def)             Requested size: 239.00558pt x 182.86667pt.
  [27 <./images/input-grayscale.png> <./images/input-invert.png>]
-Underfull \hbox (badness 1783) in paragraph at lines 170--171
-[]\OT1/minntx/m/n/12 Untuk ha-la-man ini yang bertu-juan un-tuk men-gubah
- []
-
 <images/input-brightness.png, id=427, 648.17157pt x 557.08125pt>
 File: images/input-brightness.png Graphic file (type png)
 <use images/input-brightness.png>
-Package pdftex.def Info: images/input-brightness.png  used on input line 175.
+Package pdftex.def Info: images/input-brightness.png  used on input line 172.
 (pdftex.def)             Requested size: 239.00558pt x 205.4198pt.
-[28 <./images/input-brightness.png>]
+ [28 <./images/input-brightness.png>]
 <images/input-threshold.png, id=435, 648.17157pt x 566.86781pt>
 File: images/input-threshold.png Graphic file (type png)
 <use images/input-threshold.png>
-Package pdftex.def Info: images/input-threshold.png  used on input line 186.
+Package pdftex.def Info: images/input-threshold.png  used on input line 183.
 (pdftex.def)             Requested size: 318.67209pt x 278.70183pt.
  [29 <./images/input-threshold.png>]
 <images/input-blending.png, id=442, 648.17157pt x 673.01437pt>
 File: images/input-blending.png Graphic file (type png)
 <use images/input-blending.png>
-Package pdftex.def Info: images/input-blending.png  used on input line 199.
+Package pdftex.def Info: images/input-blending.png  used on input line 197.
 (pdftex.def)             Requested size: 239.00558pt x 248.16933pt.
- [30 <./images/input-blending.png>]
-<images/input-substraction.png, id=449, 445.665pt x 657.95813pt>
+<images/input-substraction.png, id=443, 445.665pt x 657.95813pt>
 File: images/input-substraction.png Graphic file (type png)
 <use images/input-substraction.png>
-Package pdftex.def Info: images/input-substraction.png  used on input line 212.
+Package pdftex.def Info: images/input-substraction.png  used on input line 208.
 (pdftex.def)             Requested size: 239.00558pt x 352.85248pt.
-
-Underfull \hbox (badness 1424) in paragraph at lines 224--225
-[]\OT1/minntx/m/n/12 Setelah tahap im-ple-men-tasi, pen-gu-jian ap-likasi di-lakukan un-tuk
- []
-
-
-Underfull \hbox (badness 1152) in paragraph at lines 224--225
-\OT1/minntx/m/n/12 dan masyarakat umum, yang dim-inta men-jawab 5 per-tanyaan terkait
- []
-
-
-Underfull \hbox (badness 1189) in paragraph at lines 224--225
-\OT1/minntx/m/n/12 pen-gala-man peng-guna (\OT1/ntxtlf/m/it/12 user ex-pe-ri-ence\OT1/minntx/m/n/12 ) dalam meng-gu-nakan ap-likasi
+ [30 <./images/input-blending.png>]
+Underfull \hbox (badness 2903) in paragraph at lines 219--220
+\OT1/minntx/m/n/12 per-an-can-gan yang telah dis-usun se-belum-nya. Pada tahap ini, di-lakukan
  []
 
 [31 <./images/input-substraction.png>] [32]) [33]
@@ -1583,21 +1555,21 @@ LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2020/03/25>
  ***********
 Package rerunfilecheck Info: File `seminar-proposal.out' has not changed.
-(rerunfilecheck)             Checksum: 49BB5929973EF77C756FB1158728EDB7;4141.
+(rerunfilecheck)             Checksum: 14D162391D60C44330ED2B53875B6EB8;4141.
 Package logreq Info: Writing requests to 'seminar-proposal.run.xml'.
 \openout1 = `seminar-proposal.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
  37123 strings out of 474116
- 697924 string characters out of 5720541
+ 697994 string characters out of 5720541
  1937187 words of memory out of 5000000
  58722 multiletter control sequences out of 15000+600000
  602846 words of font info for 122 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  118i,12n,131p,1378b,1762s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </nix/store/nn50xms44xc7fhb1cm6vicw77hpppxzl-texlive-2023-env-texmfdist/fonts/type1/public/newtx/NewTXMI.pfb></nix/store/nn50xms44xc7fhb1cm6vicw77hpppxzl-texlive-2023-env-texmfdist/fonts/type1/public/newtx/txexs.pfb></nix/store/nn50xms44xc7fhb1cm6vicw77hpppxzl-texlive-2023-env-texmfdist/fonts/type1/public/newtx/txmiaX.pfb></nix/store/nn50xms44xc7fhb1cm6vicw77hpppxzl-texlive-2023-env-texmfdist/fonts/type1/public/newtx/txsys.pfb></nix/store/nn50xms44xc7fhb1cm6vicw77hpppxzl-texlive-2023-env-texmfdist/fonts/type1/public/newtx/ztmb.pfb></nix/store/nn50xms44xc7fhb1cm6vicw77hpppxzl-texlive-2023-env-texmfdist/fonts/type1/public/newtx/ztmbi.pfb></nix/store/nn50xms44xc7fhb1cm6vicw77hpppxzl-texlive-2023-env-texmfdist/fonts/type1/public/newtx/ztmr.pfb></nix/store/nn50xms44xc7fhb1cm6vicw77hpppxzl-texlive-2023-env-texmfdist/fonts/type1/public/newtx/ztmri.pfb>
-Output written on seminar-proposal.pdf (40 pages, 1599981 bytes).
+Output written on seminar-proposal.pdf (40 pages, 1600009 bytes).
 PDF statistics:
  570 PDF objects out of 1000 (max. 8388607)
  476 compressed objects within 5 object streams
