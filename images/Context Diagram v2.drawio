@@ -1,0 +1,125 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.14">
+  <diagram name="Page-1" id="KI4ld7LmEkV1bPh1zsLP">
+    <mxGraphModel dx="1302" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="lghi4wq8eS88bpXC95zE-7" value="&lt;font style=&quot;font-size: 15px;&quot; face=&quot;Times New Roman&quot;&gt;Media Pembelajaran Pengolahan Citra Digital Menggunakan Visualisasi Interaktif Berbasis Web&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="270" y="490" width="310" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="lghi4wq8eS88bpXC95zE-9" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;User&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="120" width="180" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="lghi4wq8eS88bpXC95zE-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.016;exitY=0.861;exitDx=0;exitDy=0;entryX=0.364;entryY=0.021;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" parent="1" source="lghi4wq8eS88bpXC95zE-9" target="lghi4wq8eS88bpXC95zE-7" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="187" as="sourcePoint" />
+            <mxPoint x="440" y="480" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="380" y="284" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lghi4wq8eS88bpXC95zE-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.004;exitY=0.474;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" parent="1" source="lghi4wq8eS88bpXC95zE-7" edge="1" target="lghi4wq8eS88bpXC95zE-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="270" as="sourcePoint" />
+            <mxPoint x="120" y="350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="80" y="637" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lghi4wq8eS88bpXC95zE-26" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Informasi Operasi&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" parent="1" vertex="1">
+          <mxGeometry x="130" y="640" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YNYmFADTc_teo_zQkmza-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.013;exitY=0.349;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.149;entryY=1.016;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="lghi4wq8eS88bpXC95zE-7" target="lghi4wq8eS88bpXC95zE-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="281" y="647" as="sourcePoint" />
+            <mxPoint x="100" y="300" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="107" y="598" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YNYmFADTc_teo_zQkmza-3" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Gambar Bawaan&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="600" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YNYmFADTc_teo_zQkmza-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.081;exitY=0.232;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.32;entryY=1.019;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="lghi4wq8eS88bpXC95zE-7" target="lghi4wq8eS88bpXC95zE-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="284" y="608" as="sourcePoint" />
+            <mxPoint x="117" y="313" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="138" y="562" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YNYmFADTc_teo_zQkmza-5" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Tabel Citra&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="560" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YNYmFADTc_teo_zQkmza-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.258;exitY=0.065;exitDx=0;exitDy=0;entryX=0.6;entryY=1.012;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="lghi4wq8eS88bpXC95zE-7" target="lghi4wq8eS88bpXC95zE-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="305" y="572" as="sourcePoint" />
+            <mxPoint x="148" y="314" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="190" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YNYmFADTc_teo_zQkmza-7" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Gambar Hasil Operasi&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="520" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YNYmFADTc_teo_zQkmza-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.813;entryY=1.003;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.353;exitY=0.021;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="lghi4wq8eS88bpXC95zE-7" target="lghi4wq8eS88bpXC95zE-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="430" as="sourcePoint" />
+            <mxPoint x="198" y="322" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="300" y="470" />
+              <mxPoint x="230" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YNYmFADTc_teo_zQkmza-9" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Kuis&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="470" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YNYmFADTc_teo_zQkmza-10" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Data Citra Gambar&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="250" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YNYmFADTc_teo_zQkmza-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.632;exitDx=0;exitDy=0;entryX=0.425;entryY=-0.004;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="lghi4wq8eS88bpXC95zE-9" target="lghi4wq8eS88bpXC95zE-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="273" y="294" as="sourcePoint" />
+            <mxPoint x="393" y="507" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YNYmFADTc_teo_zQkmza-12" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Nilai Parameter&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="210" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YNYmFADTc_teo_zQkmza-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.009;exitY=0.435;exitDx=0;exitDy=0;entryX=0.459;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="lghi4wq8eS88bpXC95zE-9" target="lghi4wq8eS88bpXC95zE-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="250" as="sourcePoint" />
+            <mxPoint x="412" y="499" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="410" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YNYmFADTc_teo_zQkmza-14" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Gambar&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="170" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YNYmFADTc_teo_zQkmza-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.009;exitY=0.218;exitDx=0;exitDy=0;entryX=0.521;entryY=-0.004;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="lghi4wq8eS88bpXC95zE-9" target="lghi4wq8eS88bpXC95zE-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="272" y="213" as="sourcePoint" />
+            <mxPoint x="422" y="500" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="430" y="161" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YNYmFADTc_teo_zQkmza-16" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Jawaban Kuis&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="120" width="100" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
